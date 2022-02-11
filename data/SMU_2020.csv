@@ -1,4 +1,4 @@
-school,degree,university,gross_monthly_median,gross_mthly_25_percentile,basic_monthly_median,employment_rate_ft_perm,gross_mthly_75_percentile,gross_monthly_mean,basic_monthly_mean,year ,employment_rate_overall
+school,degree,university,gross_monthly_median,gross_mthly_25_percentile,basic_monthly_median,employment_rate_ft_perm,gross_mthly_75_percentile,gross_monthly_mean,basic_monthly_mean,year,employment_rate_overall
 School of Accountancy (4-year programme) *,Accountancy,Singapore Management University,3100,3000,3050,86%,4000,3694,3636,2020,94.70%
 School of Accountancy (4-year programme) *,Accountancy (Cum Laude and above),Singapore Management University,3744,3000,3600,86%,4583,4057,3979,2020,96.30%
 School of Business (4-year programme) *,Business Management,Singapore Management University,3850,3440,3800,68%,4600,4293,4183,2020,95.80%

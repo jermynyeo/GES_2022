@@ -1,4 +1,4 @@
-school,degree,univeristy,gross_monthly_median,gross_mthly_25_percentile,basic_monthly_median,employment_rate_ft_perm,gross_mthly_75_percentile,gross_monthly_mean,basic_monthly_mean,year,employment_rate_overall
+school,degree,university,gross_monthly_median,gross_mthly_25_percentile,basic_monthly_median,employment_rate_ft_perm,gross_mthly_75_percentile,gross_monthly_mean,basic_monthly_mean,year,employment_rate_overall
 College of Business (Nanyang Business School),Accountancy,Nanyang Technological University,3000,3000,3000,89%,3100,3228,3213,2020,96.00%
 College of Business (Nanyang Business School),Accountancy and Business,Nanyang Technological University,4405,3500,4327,91%,5000,4704,4615,2020,97.60%
 College of Business (Nanyang Business School),Business,Nanyang Technological University,3800,3300,3750,67%,4429,4113,3973,2020,95.20%
