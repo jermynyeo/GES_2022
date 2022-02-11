@@ -1,41 +1,41 @@
 school,degree,univeristy,gross_monthly_median,gross_mthly_25_percentile,basic_monthly_median,employment_rate_ft_perm,gross_mthly_75_percentile,gross_monthly_mean,basic_monthly_mean,year,employment_rate_overall
-College of Business (Nanyang Business School),Accountancy,Nanyang Technological University,"$3,000 ","$3,000 ","$3,000 ",88.70%,"$3,100 ","$3,228 ","$3,213 ",2020,96.00%
-College of Business (Nanyang Business School),Accountancy and Business,Nanyang Technological University,"$4,405 ","$3,500 ","$4,327 ",91.30%,"$5,000 ","$4,704 ","$4,615 ",2020,97.60%
-College of Business (Nanyang Business School),Business,Nanyang Technological University,"$3,800 ","$3,300 ","$3,750 ",66.80%,"$4,429 ","$4,113 ","$3,973 ",2020,95.20%
-College of Business (Nanyang Business School),Double Degree in Business and Computer,Nanyang Technological University,"$5,400 ","$5,000 ","$5,200 ",97.40%,"$5,750 ","$5,537 ","$5,216 ",2020,97.40%
-College of Engineering,Aerospace Engineering,Nanyang Technological University,"$4,000 ","$3,800 ","$3,980 ",75.80%,"$4,945 ","$4,284 ","$4,110 ",2020,91.20%
-College of Engineering,Bioengineering,Nanyang Technological University,"$3,450 ","$3,200 ","$3,400 ",43.60%,"$3,800 ","$3,473 ","$3,428 ",2020,89.10%
-College of Engineering,Chemical and Biomolecular Engineering,Nanyang Technological University,"$3,900 ","$3,500 ","$3,600 ",83.00%,"$4,300 ","$3,948 ","$3,732 ",2020,95.00%
-College of Engineering,Civil Engineering,Nanyang Technological University,"$3,500 ","$3,200 ","$3,400 ",87.00%,"$3,800 ","$3,495 ","$3,458 ",2020,95.70%
-College of Engineering,Computer Engineering,Nanyang Technological University,"$4,100 ","$3,627 ","$4,100 ",94.40%,"$4,845 ","$4,136 ","$4,069 ",2020,97.20%
-College of Engineering,Computer Science,Nanyang Technological University,"$4,300 ","$3,880 ","$4,250 ",86.10%,"$5,000 ","$4,558 ","$4,508 ",2020,92.20%
-College of Engineering,Double Degree in Engineering and Economics,Nanyang Technological University,"$4,450 ","$3,825 ","$4,450 ",94.10%,"$5,050 ","$4,516 ","$4,459 ",2020,100.00%
-College of Engineering,Electrical and Electronic Engineering,Nanyang Technological University,"$3,880 ","$3,500 ","$3,800 ",75.10%,"$4,370 ","$4,004 ","$3,925 ",2020,94.50%
-College of Engineering,Environmental Engineering,Nanyang Technological University,"$3,450 ","$3,200 ","$3,375 ",58.50%,"$3,800 ","$3,444 ","$3,364 ",2020,90.20%
-College of Engineering,Information Engineering and Media,Nanyang Technological University,"$4,000 ","$3,500 ","$4,000 ",70.00%,"$4,500 ","$4,208 ","$4,085 ",2020,96.00%
-College of Engineering,Maritime Studies,Nanyang Technological University,"$3,500 ","$3,300 ","$3,500 ",78.50%,"$3,875 ","$3,646 ","$3,608 ",2020,90.80%
-College of Engineering,Materials Engineering,Nanyang Technological University,"$3,700 ","$3,500 ","$3,600 ",69.00%,"$4,000 ","$3,755 ","$3,613 ",2020,91.50%
-College of Engineering,Mechanical Engineering,Nanyang Technological University,"$3,850 ","$3,500 ","$3,700 ",67.50%,"$4,432 ","$3,977 ","$3,861 ",2020,91.70%
-"College of Humanities, Arts & Social Sciences","Art, Design and Media",Nanyang Technological University,"$2,800 ","$2,500 ","$2,800 ",35.70%,"$3,300 ","$2,925 ","$2,858 ",2020,90.40%
-"College of Humanities, Arts & Social Sciences",Chinese,Nanyang Technological University,"$3,500 ","$3,000 ","$3,350 ",63.50%,"$3,500 ","$3,310 ","$3,251 ",2020,83.80%
-"College of Humanities, Arts & Social Sciences",Communication Studies,Nanyang Technological University,"$3,340 ","$3,000 ","$3,300 ",66.70%,"$3,800 ","$3,440 ","$3,378 ",2020,94.90%
-"College of Humanities, Arts & Social Sciences",Economics,Nanyang Technological University,"$3,797 ","$3,400 ","$3,700 ",63.50%,"$4,050 ","$3,926 ","$3,756 ",2020,91.80%
-"College of Humanities, Arts & Social Sciences",English,Nanyang Technological University,"$3,450 ","$3,128 ","$3,450 ",43.20%,"$3,900 ","$3,561 ","$3,507 ",2020,90.90%
-"College of Humanities, Arts & Social Sciences",History,Nanyang Technological University,"$3,650 ","$3,250 ","$3,575 ",44.70%,"$4,025 ","$3,644 ","$3,558 ",2020,87.20%
-"College of Humanities, Arts & Social Sciences",Inter-Disciplinary Double Major,Nanyang Technological University,"$3,854 ","$3,200 ","$3,300 ",50.00%,"$4,500 ","$3,797 ","$3,608 ",2020,95.80%
-"College of Humanities, Arts & Social Sciences",Linguistics and Multilingual Studies,Nanyang Technological University,"$3,350 ","$3,000 ","$3,300 ",63.80%,"$3,900 ","$3,472 ","$3,371 ",2020,96.60%
-"College of Humanities, Arts & Social Sciences",Philosophy,Nanyang Technological University,"$3,650 ","$3,300 ","$3,300 ",70.40%,"$3,850 ","$3,580 ","$3,417 ",2020,96.30%
-"College of Humanities, Arts & Social Sciences",Psychology,Nanyang Technological University,"$3,300 ","$3,100 ","$3,200 ",53.50%,"$3,650 ","$3,433 ","$3,315 ",2020,83.80%
-"College of Humanities, Arts & Social Sciences",Public Policy and Global Affairs,Nanyang Technological University,"$3,800 ","$3,500 ","$3,710 ",67.50%,"$4,583 ","$4,043 ","$3,989 ",2020,92.50%
-"College of Humanities, Arts & Social Sciences",Sociology,Nanyang Technological University,"$3,600 ","$3,300 ","$3,500 ",66.20%,"$3,800 ","$3,598 ","$3,529 ",2020,95.40%
-College of Science,Biological Sciences,Nanyang Technological University,"$3,325 ","$3,200 ","$3,300 ",56.70%,"$3,650 ","$3,401 ","$3,319 ",2020,88.90%
-College of Science,Biomedical Sciences and Chinese Medicine,Nanyang Technological University,"$3,000 ","$2,800 ","$3,000 ",84.20%,"$3,150 ","$2,969 ","$2,950 ",2020,94.70%
-College of Science,Chemistry and Biological Chemistry,Nanyang Technological University,"$3,245 ","$3,000 ","$3,200 ",45.60%,"$3,635 ","$3,345 ","$3,230 ",2020,91.90%
-College of Science,Environmental Earth Systems Sciences,Nanyang Technological University,"$3,550 ","$3,400 ","$3,550 ",63.60%,"$3,764 ","$3,657 ","$3,637 ",2020,95.50%
-College of Science,Mathematical Sciences,Nanyang Technological University,"$3,656 ","$3,300 ","$3,600 ",68.90%,"$4,250 ","$3,823 ","$3,746 ",2020,92.40%
-College of Science,Mathematics and Economics,Nanyang Technological University,"$3,832 ","$3,500 ","$3,832 ",55.70%,"$4,300 ","$3,949 ","$3,849 ",2020,87.10%
-College of Science,Physics and Applied Physics,Nanyang Technological University,"$3,700 ","$3,500 ","$3,600 ",48.50%,"$3,850 ","$3,719 ","$3,643 ",2020,92.60%
-Sports Science and Management,Sports Science and Management,Nanyang Technological University,"$3,300 ","$3,000 ","$3,240 ",52.50%,"$4,200 ","$3,661 ","$3,494 ",2020,91.50%
-National Institure of Education (NIE),Arts (with Education),Nanyang Technological University,"$3,799 ","$3,600 ","$3,798 ",98.40%,"$3,806 ","$3,682 ","$3,582 ",2020,100%
-National Institure of Education (NIE),Science (with Education),Nanyang Technological University,"$3,800 ","$3,700 ","$3,799 ",100.00%,"$4,000 ","$3,744 ","$3,660 ",2020,100%
-Lee Kong Chian School of Medicine,Medicine,Nanyang Technological University,"$5,250 ","$5,000 ","$4,700 ",100.00%,"$5,900 ","$5,387 ","$4,775 ",2020,100%
+College of Business (Nanyang Business School),Accountancy,Nanyang Technological University,3000,3000,3000,89%,3100,3228,3213,2020,96.00%
+College of Business (Nanyang Business School),Accountancy and Business,Nanyang Technological University,4405,3500,4327,91%,5000,4704,4615,2020,97.60%
+College of Business (Nanyang Business School),Business,Nanyang Technological University,3800,3300,3750,67%,4429,4113,3973,2020,95.20%
+College of Business (Nanyang Business School),Double Degree in Business and Computer,Nanyang Technological University,5400,5000,5200,97%,5750,5537,5216,2020,97.40%
+College of Engineering,Aerospace Engineering,Nanyang Technological University,4000,3800,3980,76%,4945,4284,4110,2020,91.20%
+College of Engineering,Bioengineering,Nanyang Technological University,3450,3200,3400,44%,3800,3473,3428,2020,89.10%
+College of Engineering,Chemical and Biomolecular Engineering,Nanyang Technological University,3900,3500,3600,83%,4300,3948,3732,2020,95.00%
+College of Engineering,Civil Engineering,Nanyang Technological University,3500,3200,3400,87%,3800,3495,3458,2020,95.70%
+College of Engineering,Computer Engineering,Nanyang Technological University,4100,3627,4100,94%,4845,4136,4069,2020,97.20%
+College of Engineering,Computer Science,Nanyang Technological University,4300,3880,4250,86%,5000,4558,4508,2020,92.20%
+College of Engineering,Double Degree in Engineering and Economics,Nanyang Technological University,4450,3825,4450,94%,5050,4516,4459,2020,100.00%
+College of Engineering,Electrical and Electronic Engineering,Nanyang Technological University,3880,3500,3800,75%,4370,4004,3925,2020,94.50%
+College of Engineering,Environmental Engineering,Nanyang Technological University,3450,3200,3375,59%,3800,3444,3364,2020,90.20%
+College of Engineering,Information Engineering and Media,Nanyang Technological University,4000,3500,4000,70%,4500,4208,4085,2020,96.00%
+College of Engineering,Maritime Studies,Nanyang Technological University,3500,3300,3500,79%,3875,3646,3608,2020,90.80%
+College of Engineering,Materials Engineering,Nanyang Technological University,3700,3500,3600,69%,4000,3755,3613,2020,91.50%
+College of Engineering,Mechanical Engineering,Nanyang Technological University,3850,3500,3700,68%,4432,3977,3861,2020,91.70%
+"College of Humanities, Arts & Social Sciences","Art, Design and Media",Nanyang Technological University,2800,2500,2800,36%,3300,2925,2858,2020,90.40%
+"College of Humanities, Arts & Social Sciences",Chinese,Nanyang Technological University,3500,3000,3350,64%,3500,3310,3251,2020,83.80%
+"College of Humanities, Arts & Social Sciences",Communication Studies,Nanyang Technological University,3340,3000,3300,67%,3800,3440,3378,2020,94.90%
+"College of Humanities, Arts & Social Sciences",Economics,Nanyang Technological University,3797,3400,3700,64%,4050,3926,3756,2020,91.80%
+"College of Humanities, Arts & Social Sciences",English,Nanyang Technological University,3450,3128,3450,43%,3900,3561,3507,2020,90.90%
+"College of Humanities, Arts & Social Sciences",History,Nanyang Technological University,3650,3250,3575,45%,4025,3644,3558,2020,87.20%
+"College of Humanities, Arts & Social Sciences",Inter-Disciplinary Double Major,Nanyang Technological University,3854,3200,3300,50%,4500,3797,3608,2020,95.80%
+"College of Humanities, Arts & Social Sciences",Linguistics and Multilingual Studies,Nanyang Technological University,3350,3000,3300,64%,3900,3472,3371,2020,96.60%
+"College of Humanities, Arts & Social Sciences",Philosophy,Nanyang Technological University,3650,3300,3300,70%,3850,3580,3417,2020,96.30%
+"College of Humanities, Arts & Social Sciences",Psychology,Nanyang Technological University,3300,3100,3200,54%,3650,3433,3315,2020,83.80%
+"College of Humanities, Arts & Social Sciences",Public Policy and Global Affairs,Nanyang Technological University,3800,3500,3710,68%,4583,4043,3989,2020,92.50%
+"College of Humanities, Arts & Social Sciences",Sociology,Nanyang Technological University,3600,3300,3500,66%,3800,3598,3529,2020,95.40%
+College of Science,Biological Sciences,Nanyang Technological University,3325,3200,3300,57%,3650,3401,3319,2020,88.90%
+College of Science,Biomedical Sciences and Chinese Medicine,Nanyang Technological University,3000,2800,3000,84%,3150,2969,2950,2020,94.70%
+College of Science,Chemistry and Biological Chemistry,Nanyang Technological University,3245,3000,3200,46%,3635,3345,3230,2020,91.90%
+College of Science,Environmental Earth Systems Sciences,Nanyang Technological University,3550,3400,3550,64%,3764,3657,3637,2020,95.50%
+College of Science,Mathematical Sciences,Nanyang Technological University,3656,3300,3600,69%,4250,3823,3746,2020,92.40%
+College of Science,Mathematics and Economics,Nanyang Technological University,3832,3500,3832,56%,4300,3949,3849,2020,87.10%
+College of Science,Physics and Applied Physics,Nanyang Technological University,3700,3500,3600,49%,3850,3719,3643,2020,92.60%
+Sports Science and Management,Sports Science and Management,Nanyang Technological University,3300,3000,3240,53%,4200,3661,3494,2020,91.50%
+National Institure of Education (NIE),Arts (with Education),Nanyang Technological University,3799,3600,3798,98%,3806,3682,3582,2020,100%
+National Institure of Education (NIE),Science (with Education),Nanyang Technological University,3800,3700,3799,100%,4000,3744,3660,2020,100%
+Lee Kong Chian School of Medicine,Medicine,Nanyang Technological University,5250,5000,4700,100%,5900,5387,4775,2020,100%

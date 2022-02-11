@@ -1,6 +1,5 @@
-school,degree,university,gross_monthly_median,gross_mthly_25_percentile,basic_monthly_median,employment_rate_ft_perm,gross_mthly_75_percentile,gross_monthly_mean,basic_monthly_mean,year,employment_rate_overall,,,,,,,,,,,
-na,Bachelor of Engineering (Engineering Product Development),Singapore University of Technology and Design,"$3,800 ","$3,500 ","$3,800 ",82.10%,"$4,150 ","$3,901 ","$3,809 ",2020,94.60%,,,,,,,,,,,
-na,Bachelor of Engineering (Engineering Systems and Design),Singapore University of Technology and Design,"$4,000 ","$3,725 ","$3,950 ",77.10%,"$4,900 ","$4,287 ","$4,195 ",2020,95.20%,,,,,,,,,,,
-na,Bachelor of Engineering (Information Systems Technology and Design),Singapore University of Technology and Design,"$4,500 ","$4,000 ","$4,500 ",85.40%,"$5,000 ","$4,734 ","$4,581 ",2020,96.90%,,,,,,,,,,,
-na,Bachelor of Science (Architecture and Sustainable Design),Singapore University of Technology and Design,"$3,800 ","$3,500 ","$3,800 ",95.60%,"$4,070 ","$3,982 ","$3,897 ",2020,100.00%,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,
+school,degree,university,gross_monthly_median,gross_mthly_25_percentile,basic_monthly_median,employment_rate_ft_perm,gross_mthly_75_percentile,gross_monthly_mean,basic_monthly_mean,year,employment_rate_overall
+na,Bachelor of Engineering (Engineering Product Development),Singapore University of Technology and Design,3800,3500,3800,82%,4150,3901,3809,2020,94.60%
+na,Bachelor of Engineering (Engineering Systems and Design),Singapore University of Technology and Design,4000,3725,3950,77%,4900,4287,4195,2020,95.20%
+na,Bachelor of Engineering (Information Systems Technology and Design),Singapore University of Technology and Design,4500,4000,4500,85%,5000,4734,4581,2020,96.90%
+na,Bachelor of Science (Architecture and Sustainable Design),Singapore University of Technology and Design,3800,3500,3800,96%,4070,3982,3897,2020,100.00%

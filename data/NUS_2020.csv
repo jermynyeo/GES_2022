@@ -1,40 +1,40 @@
 school,degree,university,gross_monthly_median,gross_mthly_25_percentile,basic_monthly_median,employment_rate_ft_perm,gross_mthly_75_percentile,gross_monthly_mean,basic_monthly_mean,year,employment_rate_overall
-Faculty of Arts & Social Sciences ,Bachelor of Arts,National University of Singapore,"$3,300 ","$2,700 ","$3,100 ",39.80%,"$3,600 ","$3,868 ","$3,639 ",2020,90.40%
-Faculty of Arts & Social Sciences ,Bachelor of Arts (Hons),National University of Singapore,"$3,500 ","$3,300 ","$3,500 ",54.20%,"$3,854 ","$3,586 ","$3,529 ",2020,93.10%
-Faculty of Arts & Social Sciences ,Bachelor of Social Sciences,National University of Singapore,"$3,500 ","$3,345 ","$3,500 ",65.30%,"$3,875 ","$3,666 ","$3,597 ",2020,93.50%
-Faculty of Dentistry ,Bachelor of Dental Surgery,National University of Singapore,"$4,200 ","$4,200 ","$4,200 ",100.00%,"$4,600 ","$4,280 ","$4,202 ",2020,100.00%
-Faculty of Engineering,Bachelor of Engineering (Biomedical Engineering),National University of Singapore,"$3,500 ","$3,300 ","$3,500 ",53.10%,"$3,740 ","$3,577 ","$3,500 ",2020,95.80%
-Faculty of Engineering,Bachelor of Engineering (Chemical Engineering),National University of Singapore,"$4,000 ","$3,700 ","$4,000 ",78.20%,"$4,500 ","$4,155 ","$3,955 ",2020,97.00%
-Faculty of Engineering,Bachelor of Engineering (Civil Engineering),National University of Singapore,"$3,590 ","$3,500 ","$3,500 ",86.50%,"$4,050 ","$3,739 ","$3,661 ",2020,95.50%
-Faculty of Engineering,Bachelor of Engineering (Electrical Engineering),National University of Singapore,"$4,200 ","$3,800 ","$4,000 ",75.40%,"$5,000 ","$4,370 ","$4,256 ",2020,91.00%
-Faculty of Engineering,Bachelor of Engineering (Engineering Science),National University of Singapore,"$4,000 ","$3,765 ","$4,000 ",73.90%,"$5,000 ","$4,584 ","$4,499 ",2020,91.30%
-Faculty of Engineering,Bachelor of Engineering (Environmental Engineering),National University of Singapore,"$3,500 ","$3,250 ","$3,500 ",63.20%,"$3,875 ","$3,572 ","$3,473 ",2020,100.00%
-Faculty of Engineering,Bachelor of Engineering (Industrial and Systems Engineering),National University of Singapore,"$4,380 ","$3,700 ","$4,010 ",93.00%,"$4,800 ","$4,337 ","$4,236 ",2020,97.20%
-Faculty of Engineering,Bachelor of Engineering (Materials Science and Engineering),National University of Singapore,"$3,900 ","$3,600 ","$3,700 ",66.10%,"$4,200 ","$3,922 ","$3,795 ",2020,90.30%
-Faculty of Engineering,Bachelor of Engineering (Mechanical Engineering),National University of Singapore,"$3,800 ","$3,500 ","$3,700 ",69.60%,"$4,200 ","$3,946 ","$3,832 ",2020,94.20%
-Faculty of Law ,Bachelor of Laws,National University of Singapore,"$5,000 ","$4,400 ","$4,640 ",86.80%,"$5,600 ","$5,009 ","$4,848 ",2020,91.80%
-Faculty of Science,Bachelor of Science,National University of Singapore,"$3,100 ","$3,000 ","$3,000 ",42.10%,"$3,650 ","$3,297 ","$3,195 ",2020,86.00%
-Faculty of Science,Bachelor of Science (Hons),National University of Singapore,"$3,528 ","$3,300 ","$3,500 ",57.40%,"$4,000 ","$3,723 ","$3,636 ",2020,93.10%
-Faculty of Science,Bachelor of Science (Computational Biology),National University of Singapore,"$4,650 ","$4,250 ","$4,525 ",40.00%,"$5,000 ","$4,625 ","$4,563 ",2020,80.00%
-Faculty of Science,Bachelor of Science (Pharmacy),National University of Singapore,"$3,700 ","$3,500 ","$3,600 ",93.70%,"$3,950 ","$3,751 ","$3,590 ",2020,99.30%
-Faculty of Science,Bachelor of Science (Data Science and Analytics),National University of Singapore,"$4,125 ","$3,900 ","$4,125 ",78.30%,"$4,900 ","$4,456 ","$4,417 ",2020,100.00%
-NUS Business School,Bachelor of Business Administration,National University of Singapore,"$4,150 ","$3,300 ","$4,000 ",66.70%,"$6,100 ","$5,043 ","$4,910 ",2020,96.30%
-NUS Business School,Bachelor of Business Administration (Hons),National University of Singapore,"$4,000 ","$3,600 ","$4,000 ",80.70%,"$5,000 ","$4,579 ","$4,459 ",2020,94.90%
-NUS Business School,Bachelor of Business Administration (Accountancy),National University of Singapore,"$3,500 ","$2,800 ","$3,500 ",63.60%,"$5,500 ","$4,443 ","$4,443 ",2020,90.90%
-NUS Business School,Bachelor of Business Administration (Accountancy) (Hons),National University of Singapore,"$3,500 ","$3,000 ","$3,400 ",92.10%,"$4,425 ","$4,050 ","$3,951 ",2020,96.80%
-School of Computing,Bachelor of Computing (Computer Science),National University of Singapore,"$5,243 ","$4,400 ","$5,100 ",92.60%,"$6,316 ","$5,735 ","$5,576 ",2020,97.10%
-School of Computing,Bachelor of Computing (Information Security),National University of Singapore,"$5,000 ","$4,200 ","$4,650 ",90.90%,"$5,300 ","$4,746 ","$4,620 ",2020,90.90%
-School of Computing,Bachelor of Computing (Information Systems),National University of Singapore,"$4,500 ","$4,000 ","$4,495 ",93.10%,"$5,400 ","$4,764 ","$4,591 ",2020,98.60%
-School of Computing,Bachelor of Science (Business Analytics),National University of Singapore,"$5,000 ","$4,480 ","$5,000 ",84.30%,"$5,800 ","$5,094 ","$4,985 ",2020,98.00%
-School of Design & Environment,Bachelor of Arts (Architecture),National University of Singapore,"$4,000 ","$3,650 ","$4,000 ",91.00%,"$4,300 ","$4,058 ","$3,984 ",2020,94.00%
-School of Design & Environment,Bachelor of Arts (Industrial Design),National University of Singapore,"$3,500 ","$3,000 ","$3,500 ",22.60%,"$3,500 ","$3,417 ","$3,417 ",2020,90.30%
-School of Design & Environment,Bachelor of Science (Project and Facilities Management),National University of Singapore,"$3,200 ","$3,000 ","$3,200 ",66.70%,"$3,500 ","$3,400 ","$3,338 ",2020,92.20%
-School of Design & Environment,Bachelor of Science (Real Estate),National University of Singapore,"$3,630 ","$3,200 ","$3,600 ",68.60%,"$4,000 ","$3,682 ","$3,609 ",2020,95.10%
-Yong Loo Lin School (Medicine),Bachelor of Medicine and Bachelor of Surgery,National University of Singapore,"$5,250 ","$5,000 ","$4,700 ",100.00%,"$5,800 ","$5,306 ","$4,688 ",2020,100.00%
-Yong Loo Lin School (Medicine),Bachelor of Science (Nursing),National University of Singapore,"$3,500 ","$3,250 ","$3,250 ",92.20%,"$3,680 ","$3,489 ","$3,269 ",2020,97.40%
-Yong Loo Lin School (Medicine),Bachelor of Science (Nursing) (Hons),National University of Singapore,"$3,600 ","$3,500 ","$3,400 ",97.00%,"$3,750 ","$3,616 ","$3,371 ",2020,98.50%
-YST Conservatory of Music,Bachelor of Music,National University of Singapore,"$3,275 ","$3,125 ","$3,125 ",15.40%,"$3,350 ","$3,238 ","$3,163 ",2020,69.20%
-Yale-NUS Collece),Bachelor of Arts with Honours,National University of Singapore,"$3,890 ","$3,475 ","$3,800 ",65.70%,"$5,000 ","$4,370 ","$4,242 ",2020,90.50%
-Yale-NUS Collece),Bachelor of Science with Honours*,National University of Singapore,"$5,350 ","$4,225 ","$5,350 ",77.80%,"$6,485 ","$5,798 ","$5,615 ",2020,92.60%
-Multi-Disciplinary Programmes,Bachelor of Engineering (Computer Engineering),National University of Singapore,"$5,000 ","$4,080 ","$5,000 ",81.10%,"$5,500 ","$4,977 ","$4,904 ",2020,93.70%
-Multi-Disciplinary Programmes,Bachelor of Environmental Studies7,National University of Singapore,"$3,250 ","$3,010 ","$3,250 ",47.60%,"$3,750 ","$3,409 ","$3,251 ",2020,92.90%
+Faculty of Arts & Social Sciences ,Bachelor of Arts,National University of Singapore,3300,2700,3100,39.80%,3600,3868,3639,2020,90.40%
+Faculty of Arts & Social Sciences ,Bachelor of Arts (Hons),National University of Singapore,3500,3300,3500,54.20%,3854,3586,3529,2020,93.10%
+Faculty of Arts & Social Sciences ,Bachelor of Social Sciences,National University of Singapore,3500,3345,3500,65.30%,3875,3666,3597,2020,93.50%
+Faculty of Dentistry ,Bachelor of Dental Surgery,National University of Singapore,4200,4200,4200,100.00%,4600,4280,4202,2020,100.00%
+Faculty of Engineering,Bachelor of Engineering (Biomedical Engineering),National University of Singapore,3500,3300,3500,53.10%,3740,3577,3500,2020,95.80%
+Faculty of Engineering,Bachelor of Engineering (Chemical Engineering),National University of Singapore,4000,3700,4000,78.20%,4500,4155,3955,2020,97.00%
+Faculty of Engineering,Bachelor of Engineering (Civil Engineering),National University of Singapore,3590,3500,3500,86.50%,4050,3739,3661,2020,95.50%
+Faculty of Engineering,Bachelor of Engineering (Electrical Engineering),National University of Singapore,4200,3800,4000,75.40%,5000,4370,4256,2020,91.00%
+Faculty of Engineering,Bachelor of Engineering (Engineering Science),National University of Singapore,4000,3765,4000,73.90%,5000,4584,4499,2020,91.30%
+Faculty of Engineering,Bachelor of Engineering (Environmental Engineering),National University of Singapore,3500,3250,3500,63.20%,3875,3572,3473,2020,100.00%
+Faculty of Engineering,Bachelor of Engineering (Industrial and Systems Engineering),National University of Singapore,4380,3700,4010,93.00%,4800,4337,4236,2020,97.20%
+Faculty of Engineering,Bachelor of Engineering (Materials Science and Engineering),National University of Singapore,3900,3600,3700,66.10%,4200,3922,3795,2020,90.30%
+Faculty of Engineering,Bachelor of Engineering (Mechanical Engineering),National University of Singapore,3800,3500,3700,69.60%,4200,3946,3832,2020,94.20%
+Faculty of Law ,Bachelor of Laws,National University of Singapore,5000,4400,4640,86.80%,5600,5009,4848,2020,91.80%
+Faculty of Science,Bachelor of Science,National University of Singapore,3100,3000,3000,42.10%,3650,3297,3195,2020,86.00%
+Faculty of Science,Bachelor of Science (Hons),National University of Singapore,3528,3300,3500,57.40%,4000,3723,3636,2020,93.10%
+Faculty of Science,Bachelor of Science (Computational Biology),National University of Singapore,4650,4250,4525,40.00%,5000,4625,4563,2020,80.00%
+Faculty of Science,Bachelor of Science (Pharmacy),National University of Singapore,3700,3500,3600,93.70%,3950,3751,3590,2020,99.30%
+Faculty of Science,Bachelor of Science (Data Science and Analytics),National University of Singapore,4125,3900,4125,78.30%,4900,4456,4417,2020,100.00%
+NUS Business School,Bachelor of Business Administration,National University of Singapore,4150,3300,4000,66.70%,6100,5043,4910,2020,96.30%
+NUS Business School,Bachelor of Business Administration (Hons),National University of Singapore,4000,3600,4000,80.70%,5000,4579,4459,2020,94.90%
+NUS Business School,Bachelor of Business Administration (Accountancy),National University of Singapore,3500,2800,3500,63.60%,5500,4443,4443,2020,90.90%
+NUS Business School,Bachelor of Business Administration (Accountancy) (Hons),National University of Singapore,3500,3000,3400,92.10%,4425,4050,3951,2020,96.80%
+School of Computing,Bachelor of Computing (Computer Science),National University of Singapore,5243,4400,5100,92.60%,6316,5735,5576,2020,97.10%
+School of Computing,Bachelor of Computing (Information Security),National University of Singapore,5000,4200,4650,90.90%,5300,4746,4620,2020,90.90%
+School of Computing,Bachelor of Computing (Information Systems),National University of Singapore,4500,4000,4495,93.10%,5400,4764,4591,2020,98.60%
+School of Computing,Bachelor of Science (Business Analytics),National University of Singapore,5000,4480,5000,84.30%,5800,5094,4985,2020,98.00%
+School of Design & Environment,Bachelor of Arts (Architecture),National University of Singapore,4000,3650,4000,91.00%,4300,4058,3984,2020,94.00%
+School of Design & Environment,Bachelor of Arts (Industrial Design),National University of Singapore,3500,3000,3500,22.60%,3500,3417,3417,2020,90.30%
+School of Design & Environment,Bachelor of Science (Project and Facilities Management),National University of Singapore,3200,3000,3200,66.70%,3500,3400,3338,2020,92.20%
+School of Design & Environment,Bachelor of Science (Real Estate),National University of Singapore,3630,3200,3600,68.60%,4000,3682,3609,2020,95.10%
+Yong Loo Lin School (Medicine),Bachelor of Medicine and Bachelor of Surgery,National University of Singapore,5250,5000,4700,100.00%,5800,5306,4688,2020,100.00%
+Yong Loo Lin School (Medicine),Bachelor of Science (Nursing),National University of Singapore,3500,3250,3250,92.20%,3680,3489,3269,2020,97.40%
+Yong Loo Lin School (Medicine),Bachelor of Science (Nursing) (Hons),National University of Singapore,3600,3500,3400,97.00%,3750,3616,3371,2020,98.50%
+YST Conservatory of Music,Bachelor of Music,National University of Singapore,3275,3125,3125,15.40%,3350,3238,3163,2020,69.20%
+Yale-NUS Collece),Bachelor of Arts with Honours,National University of Singapore,3890,3475,3800,65.70%,5000,4370,4242,2020,90.50%
+Yale-NUS Collece),Bachelor of Science with Honours*,National University of Singapore,5350,4225,5350,77.80%,6485,5798,5615,2020,92.60%
+Multi-Disciplinary Programmes,Bachelor of Engineering (Computer Engineering),National University of Singapore,5000,4080,5000,81.10%,5500,4977,4904,2020,93.70%
+Multi-Disciplinary Programmes,Bachelor of Environmental Studies7,National University of Singapore,3250,3010,3250,47.60%,3750,3409,3251,2020,92.90%

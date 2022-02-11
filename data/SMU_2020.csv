@@ -1,13 +1,13 @@
-School,degree,university,gross_monthly_median,gross_mthly_25_percentile,basic_monthly_median,employment_rate_ft_perm,gross_mthly_75_percentile,gross_monthly_mean,basic_monthly_mean,year ,employment_rate_overall
-School of Accountancy (4-year programme) *,Accountancy,Singapore Management University,"$3,100 ","$3,000 ","$3,050 ",86.00%,"$4,000 ","$3,694 ","$3,636 ",2020,94.70%
-School of Accountancy (4-year programme) *,Accountancy (Cum Laude and above),Singapore Management University,"$3,744 ","$3,000 ","$3,600 ",86.10%,"$4,583 ","$4,057 ","$3,979 ",2020,96.30%
-School of Business (4-year programme) *,Business Management,Singapore Management University,"$3,850 ","$3,440 ","$3,800 ",68.40%,"$4,600 ","$4,293 ","$4,183 ",2020,95.80%
-School of Business (4-year programme) *,Business Management (Cum Laude and above),Singapore Management University,"$4,000 ","$3,600 ","$4,000 ",78.70%,"$5,000 ","$4,688 ","$4,596 ",2020,97.50%
-School of Economics (4-year programme) *,Economics,Singapore Management University,"$3,800 ","$3,400 ","$3,750 ",70.50%,"$4,500 ","$4,290 ","$4,181 ",2020,91.50%
-School of Economics (4-year programme) *,Economics (Cum Laude and above),Singapore Management University,"$4,000 ","$3,660 ","$4,000 ",82.90%,"$5,275 ","$4,749 ","$4,670 ",2020,94.70%
-School of Information Systems (4-year programme) *,Information Systems,Singapore Management University,"$4,542 ","$4,000 ","$4,500 ",83.90%,"$5,400 ","$4,683 ","$4,548 ",2020,93.10%
-School of Information Systems (4-year programme) *,Information Systems (Cum Laude and above),Singapore Management University,"$5,000 ","$4,500 ","$5,000 ",93.30%,"$5,416 ","$5,064 ","$4,903 ",2020,93.30%
-School of Social Sciences (4-year programme) *,Social Sciences,Singapore Management University,"$3,500 ","$3,200 ","$3,360 ",52.80%,"$4,000 ","$3,626 ","$3,540 ",2020,89.90%
-School of Social Sciences (4-year programme) *,Social Sciences (Cum Laude and above),Singapore Management University,"$3,510 ","$3,230 ","$3,510 ",65.60%,"$4,200 ","$3,784 ","$3,711 ",2020,90.60%
-School of Law (4-year programme) *,Law #,Singapore Management University,"$4,588 ","$4,000 ","$4,500 ",91.10%,"$5,600 ","$4,804 ","$4,729 ",2020,95.50%
-School of Law (4-year programme) *,Law (Cum Laude and above) #,Singapore Management University,"$5,000 ","$4,500 ","$5,000 ",95.50%,"$5,735 ","$5,141 ","$5,053 ",2020,97.00%
+school,degree,university,gross_monthly_median,gross_mthly_25_percentile,basic_monthly_median,employment_rate_ft_perm,gross_mthly_75_percentile,gross_monthly_mean,basic_monthly_mean,year ,employment_rate_overall
+School of Accountancy (4-year programme) *,Accountancy,Singapore Management University,3100,3000,3050,86%,4000,3694,3636,2020,94.70%
+School of Accountancy (4-year programme) *,Accountancy (Cum Laude and above),Singapore Management University,3744,3000,3600,86%,4583,4057,3979,2020,96.30%
+School of Business (4-year programme) *,Business Management,Singapore Management University,3850,3440,3800,68%,4600,4293,4183,2020,95.80%
+School of Business (4-year programme) *,Business Management (Cum Laude and above),Singapore Management University,4000,3600,4000,79%,5000,4688,4596,2020,97.50%
+School of Economics (4-year programme) *,Economics,Singapore Management University,3800,3400,3750,71%,4500,4290,4181,2020,91.50%
+School of Economics (4-year programme) *,Economics (Cum Laude and above),Singapore Management University,4000,3660,4000,83%,5275,4749,4670,2020,94.70%
+School of Information Systems (4-year programme) *,Information Systems,Singapore Management University,4542,4000,4500,84%,5400,4683,4548,2020,93.10%
+School of Information Systems (4-year programme) *,Information Systems (Cum Laude and above),Singapore Management University,5000,4500,5000,93%,5416,5064,4903,2020,93.30%
+School of Social Sciences (4-year programme) *,Social Sciences,Singapore Management University,3500,3200,3360,53%,4000,3626,3540,2020,89.90%
+School of Social Sciences (4-year programme) *,Social Sciences (Cum Laude and above),Singapore Management University,3510,3230,3510,66%,4200,3784,3711,2020,90.60%
+School of Law (4-year programme) *,Law #,Singapore Management University,4588,4000,4500,91%,5600,4804,4729,2020,95.50%
+School of Law (4-year programme) *,Law (Cum Laude and above) #,Singapore Management University,5000,4500,5000,96%,5735,5141,5053,2020,97.00%
