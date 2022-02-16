@@ -141,7 +141,7 @@
 139,College of Sciences,Biomedical Sciences (Traditional Chinese Medicine),Nanyang Technological University,2807,2700,2800,88.4,3000,2883,2840,2013,90.7
 140,College of Sciences,Biological Sciences,Nanyang Technological University,3000,2700,2900,68.1,3250,3002,2881,2013,78.6
 141,College of Sciences,Chemistry  Biological Chemistry,Nanyang Technological University,3100,2800,3000,68.9,3400,3083,2993,2013,79.8
-142,College of Sciences,Mathematics  Economics,Nanyang Technological University,na,na,na,na,na,na,na,2013,na
+142,College of Sciences,Mathematics and Economics,Nanyang Technological University,na,na,na,na,na,na,na,2013,na
 143,College of Sciences,Mathematical Science,Nanyang Technological University,3000,2750,3000,83.7,3500,3262,3169,2013,86
 144,College of Sciences,Physics  Applied Physics,Nanyang Technological University,3300,2900,3000,69.2,3400,3208,3164,2013,80.8
 145,College of Sciences,Sports Science and Management,Nanyang Technological University,3000,2700,3000,59.1,3400,2985,2968,2013,68.2
@@ -186,18 +186,18 @@
 184,Faculty of Science,Bachelor of Science (Hons),National University of Singapore,3100,2868,3000,74,3500,3217,3101,2013,83.6
 185,Faculty of Science,Bachelor of Science (Computational Biology),National University of Singapore,na,na,na,na,na,na,na,2013,na
 186,Faculty of Science,Bachelor of Science (Pharmacy) (Hons),National University of Singapore,3500,3350,3500,96.4,3750,3540,3473,2013,96.4
-187,School of Accountancy (4year programme),Accountancy (4year programme),Singapore Management University,2825,2700,2800,93.2,3430,3342,3231,2013,94.2
-188,School of Accountancy (4year programme),Accountancy (4year programme) Cum Laude and above,Singapore Management University,3000,2700,2900,95.2,3750,3634,3580,2013,95.2
-189,School of Business (4year programme),Business Management (4year programme),Singapore Management University,3200,2800,3000,87.3,3750,3520,3344,2013,93.2
-190,School of Business (4year programme),Business Management (4year programme) Cum Laude and above,Singapore Management University,3580,3000,3500,93.8,4100,3975,3825,2013,95.9
-191,School of Economics (4year programme),Economics (4year programme),Singapore Management University,3339,3000,3200,88.6,3800,3513,3389,2013,90.6
-192,School of Economics (4year programme),Economics (4year programme) Cum Laude and above,Singapore Management University,3600,3250,3500,94,4000,3820,3731,2013,94
-193,School of Information Systems (4year programme),Information Systems Management (4year programme),Singapore Management University,3300,3000,3300,89.5,3800,3468,3389,2013,93.6
-194,School of Information Systems (4year programme),Information Systems Management (4year programme) Cum Laude and above,Singapore Management University,3800,3500,3725,90.9,4000,3862,3786,2013,100
-195,School of Social Sciences (4year programme),Social Sciences (4year programme),Singapore Management University,3000,2600,3000,79.8,3320,3150,3122,2013,86.5
-196,School of Social Sciences (4year programme),Social Sciences (4year programme) Cum Laude and above,Singapore Management University,3200,2800,3200,83.3,3781,3267,3251,2013,87.5
-197,School of Law (4year programme),Law (4year programme),Singapore Management University,5000,4500,4800,100,6000,5246,5023,2013,100
-198,School of Law (4year programme),Law (4year programme) Cum Laude and above,Singapore Management University,5547,4750,5000,100,6400,5617,5329,2013,100
+187,School of Accountancy,Accountancy,Singapore Management University,2825,2700,2800,93.2,3430,3342,3231,2013,94.2
+188,School of Accountancy,Accountancy Cum Laude and above,Singapore Management University,3000,2700,2900,95.2,3750,3634,3580,2013,95.2
+189,School of Business,Business Management,Singapore Management University,3200,2800,3000,87.3,3750,3520,3344,2013,93.2
+190,School of Business,Business Management Cum Laude and above,Singapore Management University,3580,3000,3500,93.8,4100,3975,3825,2013,95.9
+191,School of Economics,Economics,Singapore Management University,3339,3000,3200,88.6,3800,3513,3389,2013,90.6
+192,School of Economics,Economics Cum Laude and above,Singapore Management University,3600,3250,3500,94,4000,3820,3731,2013,94
+193,School of Information Systems,Information Systems Management,Singapore Management University,3300,3000,3300,89.5,3800,3468,3389,2013,93.6
+194,School of Information Systems,Information Systems Management Cum Laude and above,Singapore Management University,3800,3500,3725,90.9,4000,3862,3786,2013,100
+195,School of Social Sciences,Social Sciences,Singapore Management University,3000,2600,3000,79.8,3320,3150,3122,2013,86.5
+196,School of Social Sciences,Social Sciences Cum Laude and above,Singapore Management University,3200,2800,3200,83.3,3781,3267,3251,2013,87.5
+197,School of Law,Law,Singapore Management University,5000,4500,4800,100,6000,5246,5023,2013,100
+198,School of Law,Law Cum Laude and above,Singapore Management University,5547,4750,5000,100,6400,5617,5329,2013,100
 199,Faculty of Science,Bachelor of Science,National University of Singapore,2800,2600,2700,65.1,3000,2804,2726,2013,80.9
 200,College of Business (Nanyang Business School),Accountancy and Business,Nanyang Technological University,3350,2900,3200,96.1,4000,3727,3701,2013,97.4
 201,College of Business (Nanyang Business School),Accountancy (3yr direct Honours Programme),Nanyang Technological University,2700,2700,2700,95.7,2900,2938,2850,2013,97.1
@@ -227,7 +227,7 @@
 225,College of Sciences,Biomedical Sciences (Traditional Chinese Medicine),Nanyang Technological University,2807,2700,2800,88.4,3000,2883,2840,2013,90.7
 226,College of Sciences,Biological Sciences,Nanyang Technological University,3000,2700,2900,68.1,3250,3002,2881,2013,78.6
 227,College of Sciences,Chemistry  Biological Chemistry,Nanyang Technological University,3100,2800,3000,68.9,3400,3083,2993,2013,79.8
-228,College of Sciences,Mathematics  Economics,Nanyang Technological University,na,na,na,na,na,na,na,2013,na
+228,College of Sciences,Mathematics and Economics,Nanyang Technological University,na,na,na,na,na,na,na,2013,na
 229,College of Sciences,Mathematical Science,Nanyang Technological University,3000,2750,3000,83.7,3500,3262,3169,2013,86
 230,College of Sciences,Physics  Applied Physics,Nanyang Technological University,3300,2900,3000,69.2,3400,3208,3164,2013,80.8
 231,College of Sciences,Sports Science and Management,Nanyang Technological University,3000,2700,3000,59.1,3400,2985,2968,2013,68.2
@@ -271,18 +271,18 @@
 269,Faculty of Science,Bachelor of Science (Hons),National University of Singapore,3100,2868,3000,74,3500,3217,3101,2013,83.6
 270,Faculty of Science,Bachelor of Science (Computational Biology),National University of Singapore,na,na,na,na,na,na,na,2013,na
 271,Faculty of Science,Bachelor of Science (Pharmacy) (Hons),National University of Singapore,3500,3350,3500,96.4,3750,3540,3473,2013,96.4
-272,School of Accountancy (4year programme),Accountancy (4year programme),Singapore Management University,2825,2700,2800,93.2,3430,3342,3231,2013,94.2
-273,School of Accountancy (4year programme),Accountancy (4year programme) Cum Laude and above,Singapore Management University,3000,2700,2900,95.2,3750,3634,3580,2013,95.2
-274,School of Business (4year programme),Business Management (4year programme),Singapore Management University,3200,2800,3000,87.3,3750,3520,3344,2013,93.2
-275,School of Business (4year programme),Business Management (4year programme) Cum Laude and above,Singapore Management University,3580,3000,3500,93.8,4100,3975,3825,2013,95.9
-276,School of Economics (4year programme),Economics (4year programme),Singapore Management University,3339,3000,3200,88.6,3800,3513,3389,2013,90.6
-277,School of Economics (4year programme),Economics (4year programme) Cum Laude and above,Singapore Management University,3600,3250,3500,94,4000,3820,3731,2013,94
-278,School of Information Systems (4year programme),Information Systems Management (4year programme),Singapore Management University,3300,3000,3300,89.5,3800,3468,3389,2013,93.6
-279,School of Information Systems (4year programme),Information Systems Management (4year programme) Cum Laude and above,Singapore Management University,3800,3500,3725,90.9,4000,3862,3786,2013,100
-280,School of Social Sciences (4year programme),Social Sciences (4year programme),Singapore Management University,3000,2600,3000,79.8,3320,3150,3122,2013,86.5
-281,School of Social Sciences (4year programme),Social Sciences (4year programme) Cum Laude and above,Singapore Management University,3200,2800,3200,83.3,3781,3267,3251,2013,87.5
-282,School of Law (4year programme),Law (4year programme),Singapore Management University,5000,4500,4800,100,6000,5246,5023,2013,100
-283,School of Law (4year programme),Law (4year programme) Cum Laude and above,Singapore Management University,5547,4750,5000,100,6400,5617,5329,2013,100
+272,School of Accountancy,Accountancy,Singapore Management University,2825,2700,2800,93.2,3430,3342,3231,2013,94.2
+273,School of Accountancy,Accountancy Cum Laude and above,Singapore Management University,3000,2700,2900,95.2,3750,3634,3580,2013,95.2
+274,School of Business,Business Management,Singapore Management University,3200,2800,3000,87.3,3750,3520,3344,2013,93.2
+275,School of Business,Business Management Cum Laude and above,Singapore Management University,3580,3000,3500,93.8,4100,3975,3825,2013,95.9
+276,School of Economics,Economics,Singapore Management University,3339,3000,3200,88.6,3800,3513,3389,2013,90.6
+277,School of Economics,Economics Cum Laude and above,Singapore Management University,3600,3250,3500,94,4000,3820,3731,2013,94
+278,School of Information Systems,Information Systems Management,Singapore Management University,3300,3000,3300,89.5,3800,3468,3389,2013,93.6
+279,School of Information Systems,Information Systems Management Cum Laude and above,Singapore Management University,3800,3500,3725,90.9,4000,3862,3786,2013,100
+280,School of Social Sciences,Social Sciences,Singapore Management University,3000,2600,3000,79.8,3320,3150,3122,2013,86.5
+281,School of Social Sciences,Social Sciences Cum Laude and above,Singapore Management University,3200,2800,3200,83.3,3781,3267,3251,2013,87.5
+282,School of Law,Law,Singapore Management University,5000,4500,4800,100,6000,5246,5023,2013,100
+283,School of Law,Law Cum Laude and above,Singapore Management University,5547,4750,5000,100,6400,5617,5329,2013,100
 284,College of Business (Nanyang Business School),Accountancy (3yr direct Honours Programme),Nanyang Technological University,2840,2700,2800,96.1,3000,3003,2981,2014,96.6
 285,College of Business (Nanyang Business School),Business (3yr direct Honours Programme),Nanyang Technological University,3100,2800,3000,80.2,3600,3318,3231,2014,89.6
 286,College of Business (Nanyang Business School),Business and Computing,Nanyang Technological University,3450,3232,3400,89.3,4000,3431,3398,2014,92.9
@@ -310,7 +310,7 @@
 308,College of Sciences,Biomedical Science (Traditional Chinese Medicine),Nanyang Technological University,2900,2786,2900,100,3400,3018,2974,2014,100
 309,College of Sciences,Biological Sciences,Nanyang Technological University,3000,2800,3000,60.8,3400,3174,3083,2014,75.1
 310,College of Sciences,Chemistry  Biological Chemistry,Nanyang Technological University,3100,2800,3000,68.3,3400,3321,3006,2014,80.5
-311,College of Sciences,Mathematics  Economics,Nanyang Technological University,3200,2800,3200,87,3500,3142,3155,2014,88.4
+311,College of Sciences,Mathematics and Economics,Nanyang Technological University,3200,2800,3200,87,3500,3142,3155,2014,88.4
 312,College of Sciences,Mathematical Science,Nanyang Technological University,3200,2800,3000,79.7,3300,3078,3022,2014,91.3
 313,College of Sciences,Physics  Applied Physics,Nanyang Technological University,3100,2800,3000,63.2,3560,3241,3034,2014,73.7
 314,College of Sciences,Sports Science and Management,Nanyang Technological University,3000,2700,2800,69.7,3590,3229,3076,2014,87.9
@@ -355,18 +355,18 @@
 353,Faculty of Science,Bachelor of Science (Hons),National University of Singapore,3210,2950,3200,75.8,3600,3328,3224,2014,86.6
 354,Faculty of Science,Bachelor of Science (Computational Biology),National University of Singapore,na,na,na,na,na,na,na,2014,na
 355,Faculty of Science,Bachelor of Science (Pharmacy) (Hons),National University of Singapore,3630,3470,3500,96.7,4000,3670,3467,2014,98.9
-356,School of Accountancy (4year programme),Accountancy (4year programme),Singapore Management University,2875,2722,2850,91.4,3614,3420,3375,2014,93.6
-357,School of Accountancy (4year programme),Accountancy (4year programme) Cum Laude and above,Singapore Management University,3500,2875,3450,96.1,4300,3903,3871,2014,97.4
-358,School of Business (4year programme),Business Management (4year programme),Singapore Management University,3333,3000,3250,86.4,4000,3752,3630,2014,90.9
-359,School of Business (4year programme),Business Management (4year programme) Cum Laude and above,Singapore Management University,3600,3200,3500,94,4500,4116,4019,2014,94.5
-360,School of Economics (4year programme),Economics (4year programme),Singapore Management University,3500,3175,3500,83.9,4000,3645,3525,2014,90.2
-361,School of Economics (4year programme),Economics (4year programme) Cum Laude and above,Singapore Management University,3800,3300,3800,89.1,4350,3824,3815,2014,90.6
-362,School of Information Systems (4year programme),Information Systems Management (4year programme),Singapore Management University,3350,3000,3225,80.6,4000,3530,3431,2014,92.9
-363,School of Information Systems (4year programme),Information Systems Management (4year programme) Cum Laude and above,Singapore Management University,4050,3500,4000,84.2,4540,4151,4057,2014,97.4
-364,School of Social Sciences (4year programme),Social Sciences (4year programme),Singapore Management University,3000,2800,3000,84.1,3580,3166,2981,2014,90.9
-365,School of Social Sciences (4year programme),Social Sciences (4year programme) Cum Laude and above,Singapore Management University,3590,3000,3215,81.3,3955,3545,3331,2014,87.5
-366,School of Law (4year programme),Law (4year programme),Singapore Management University,5025,4600,4800,95.6,5950,5332,4932,2014,97.8
-367,School of Law (4year programme),Law (4year programme) Cum Laude and above,Singapore Management University,5800,4800,4900,97.7,6000,5571,5089,2014,97.7
+356,School of Accountancy,Accountancy,Singapore Management University,2875,2722,2850,91.4,3614,3420,3375,2014,93.6
+357,School of Accountancy,Accountancy Cum Laude and above,Singapore Management University,3500,2875,3450,96.1,4300,3903,3871,2014,97.4
+358,School of Business,Business Management,Singapore Management University,3333,3000,3250,86.4,4000,3752,3630,2014,90.9
+359,School of Business,Business Management Cum Laude and above,Singapore Management University,3600,3200,3500,94,4500,4116,4019,2014,94.5
+360,School of Economics,Economics,Singapore Management University,3500,3175,3500,83.9,4000,3645,3525,2014,90.2
+361,School of Economics,Economics Cum Laude and above,Singapore Management University,3800,3300,3800,89.1,4350,3824,3815,2014,90.6
+362,School of Information Systems,Information Systems Management,Singapore Management University,3350,3000,3225,80.6,4000,3530,3431,2014,92.9
+363,School of Information Systems,Information Systems Management Cum Laude and above,Singapore Management University,4050,3500,4000,84.2,4540,4151,4057,2014,97.4
+364,School of Social Sciences,Social Sciences,Singapore Management University,3000,2800,3000,84.1,3580,3166,2981,2014,90.9
+365,School of Social Sciences,Social Sciences Cum Laude and above,Singapore Management University,3590,3000,3215,81.3,3955,3545,3331,2014,87.5
+366,School of Law,Law,Singapore Management University,5025,4600,4800,95.6,5950,5332,4932,2014,97.8
+367,School of Law,Law Cum Laude and above,Singapore Management University,5800,4800,4900,97.7,6000,5571,5089,2014,97.7
 368,DigiPen Institute of Technology,Bachelor of Arts in Game Design,Singapore Institute of Technology,2700,2575,2700,86.7,2800,2490,2490,2014,100
 369,DigiPen Institute of Technology,Bachelor of Fine Arts in Digital Arts Animation,Singapore Institute of Technology,2600,2300,2600,84.4,2885,2603,2586,2014,90.6
 370,DigiPen Institute of Technology,Bachelor of Science in Computer Science  Game Design,Singapore Institute of Technology,2975,2800,2875,100,3075,2955,2932,2014,100
@@ -420,7 +420,7 @@
 418,College of Sciences,Biomedical Science (Traditional Chinese Medicine),Nanyang Technological University,2900,2786,2900,100,3400,3018,2974,2014,100
 419,College of Sciences,Biological Sciences,Nanyang Technological University,3000,2800,3000,60.8,3400,3174,3083,2014,75.1
 420,College of Sciences,Chemistry  Biological Chemistry,Nanyang Technological University,3100,2800,3000,68.3,3400,3321,3006,2014,80.5
-421,College of Sciences,Mathematics  Economics,Nanyang Technological University,3200,2800,3200,87,3500,3142,3155,2014,88.4
+421,College of Sciences,Mathematics and Economics,Nanyang Technological University,3200,2800,3200,87,3500,3142,3155,2014,88.4
 422,College of Sciences,Mathematical Science,Nanyang Technological University,3200,2800,3000,79.7,3300,3078,3022,2014,91.3
 423,College of Sciences,Physics  Applied Physics,Nanyang Technological University,3100,2800,3000,63.2,3560,3241,3034,2014,73.7
 424,College of Sciences,Sports Science and Management,Nanyang Technological University,3000,2700,2800,69.7,3590,3229,3076,2014,87.9
@@ -465,18 +465,18 @@
 463,Faculty of Science,Bachelor of Science (Hons),National University of Singapore,3210,2950,3200,75.8,3600,3328,3224,2014,86.6
 464,Faculty of Science,Bachelor of Science (Computational Biology),National University of Singapore,na,na,na,na,na,na,na,2014,na
 465,Faculty of Science,Bachelor of Science (Pharmacy) (Hons),National University of Singapore,3630,3470,3500,96.7,4000,3670,3467,2014,98.9
-466,School of Accountancy (4year programme),Accountancy (4year programme),Singapore Management University,2875,2722,2850,91.4,3614,3420,3375,2014,93.6
-467,School of Accountancy (4year programme),Accountancy (4year programme) Cum Laude and above,Singapore Management University,3500,2875,3450,96.1,4300,3903,3871,2014,97.4
-468,School of Business (4year programme),Business Management (4year programme),Singapore Management University,3333,3000,3250,86.4,4000,3752,3630,2014,90.9
-469,School of Business (4year programme),Business Management (4year programme) Cum Laude and above,Singapore Management University,3600,3200,3500,94,4500,4116,4019,2014,94.5
-470,School of Economics (4year programme),Economics (4year programme),Singapore Management University,3500,3175,3500,83.9,4000,3645,3525,2014,90.2
-471,School of Economics (4year programme),Economics (4year programme) Cum Laude and above,Singapore Management University,3800,3300,3800,89.1,4350,3824,3815,2014,90.6
-472,School of Information Systems (4year programme),Information Systems Management (4year programme),Singapore Management University,3350,3000,3225,80.6,4000,3530,3431,2014,92.9
-473,School of Information Systems (4year programme),Information Systems Management (4year programme) Cum Laude and above,Singapore Management University,4050,3500,4000,84.2,4540,4151,4057,2014,97.4
-474,School of Social Sciences (4year programme),Social Sciences (4year programme),Singapore Management University,3000,2800,3000,84.1,3580,3166,2981,2014,90.9
-475,School of Social Sciences (4year programme),Social Sciences (4year programme) Cum Laude and above,Singapore Management University,3590,3000,3215,81.3,3955,3545,3331,2014,87.5
-476,School of Law (4year programme),Law (4year programme),Singapore Management University,5025,4600,4800,95.6,5950,5332,4932,2014,97.8
-477,School of Law (4year programme),Law (4year programme) Cum Laude and above,Singapore Management University,5800,4800,4900,97.7,6000,5571,5089,2014,97.7
+466,School of Accountancy,Accountancy,Singapore Management University,2875,2722,2850,91.4,3614,3420,3375,2014,93.6
+467,School of Accountancy,Accountancy Cum Laude and above,Singapore Management University,3500,2875,3450,96.1,4300,3903,3871,2014,97.4
+468,School of Business,Business Management,Singapore Management University,3333,3000,3250,86.4,4000,3752,3630,2014,90.9
+469,School of Business,Business Management Cum Laude and above,Singapore Management University,3600,3200,3500,94,4500,4116,4019,2014,94.5
+470,School of Economics,Economics,Singapore Management University,3500,3175,3500,83.9,4000,3645,3525,2014,90.2
+471,School of Economics,Economics Cum Laude and above,Singapore Management University,3800,3300,3800,89.1,4350,3824,3815,2014,90.6
+472,School of Information Systems,Information Systems Management,Singapore Management University,3350,3000,3225,80.6,4000,3530,3431,2014,92.9
+473,School of Information Systems,Information Systems Management Cum Laude and above,Singapore Management University,4050,3500,4000,84.2,4540,4151,4057,2014,97.4
+474,School of Social Sciences,Social Sciences,Singapore Management University,3000,2800,3000,84.1,3580,3166,2981,2014,90.9
+475,School of Social Sciences,Social Sciences Cum Laude and above,Singapore Management University,3590,3000,3215,81.3,3955,3545,3331,2014,87.5
+476,School of Law,Law,Singapore Management University,5025,4600,4800,95.6,5950,5332,4932,2014,97.8
+477,School of Law,Law Cum Laude and above,Singapore Management University,5800,4800,4900,97.7,6000,5571,5089,2014,97.7
 478,DigiPen Institute of Technology,Bachelor of Arts in Game Design,Singapore Institute of Technology,2700,2575,2700,86.7,2800,2490,2490,2014,100
 479,DigiPen Institute of Technology,Bachelor of Fine Arts in Digital Arts Animation,Singapore Institute of Technology,2600,2300,2600,84.4,2885,2603,2586,2014,90.6
 480,DigiPen Institute of Technology,Bachelor of Science in Computer Science  Game Design,Singapore Institute of Technology,2975,2800,2875,100,3075,2955,2932,2014,100
@@ -533,7 +533,7 @@
 531,College of Sciences,Biomedical Science (Traditional Chinese Medicine),Nanyang Technological University,2800,2500,2800,100,3105,2882,2832,2015,100
 532,College of Sciences,Biological Sciences,Nanyang Technological University,3190,2875,3000,65.3,3600,3229,3117,2015,74.6
 533,College of Sciences,Chemistry  Biological Chemistry,Nanyang Technological University,3000,2800,2900,72.3,3500,3139,2960,2015,83.9
-534,College of Sciences,Mathematics  Economics,Nanyang Technological University,3205,2925,3000,84.4,3500,3440,3291,2015,95.3
+534,College of Sciences,Mathematics and Economics,Nanyang Technological University,3205,2925,3000,84.4,3500,3440,3291,2015,95.3
 535,College of Sciences,Mathematical Science,Nanyang Technological University,3240,2950,3125,72.7,3500,3402,3254,2015,81.8
 536,College of Sciences,Physics  Applied Physics,Nanyang Technological University,3200,2900,3000,69.6,3400,3186,3098,2015,82.1
 537,College of Sciences,Sports Science and Management,Nanyang Technological University,3295,2900,3000,72.1,3600,3307,3232,2015,90.7
@@ -579,18 +579,18 @@
 577,Faculty of Science,Bachelor of Science (Computational Biology),National University of Singapore,na,na,na,na,na,na,na,2015,na
 578,Faculty of Science,Bachelor of Science (Pharmacy) (Hons),National University of Singapore,3500,3400,3500,97.9,3929,3717,3431,2015,99
 579,MultiDisciplinary Programme,Bachelor of Environmental Studies,National University of Singapore,3500,3238,3462,59.4,3550,3433,3400,2015,71.9
-580,School of Accountancy (4year programme),Accountancy,Singapore Management University,3000,2850,2900,93,3500,3427,3287,2015,97.3
-581,School of Accountancy (4year programme),Accountancy Cum Laude and above,Singapore Management University,3200,2850,3100,97.7,4110,3701,3597,2015,97.7
-582,School of Business (4year programme),Business Management,Singapore Management University,3300,3000,3200,88.2,4000,3611,3513,2015,93.9
-583,School of Business (4year programme),Business Management Cum Laude and above,Singapore Management University,3868,3200,3800,93.3,4600,4130,4050,2015,98.3
-584,School of Economics (4year programme),Economics,Singapore Management University,3500,3200,3500,85.8,4100,3946,3798,2015,90.3
-585,School of Economics (4year programme),Economics Cum Laude and above,Singapore Management University,3850,3500,3800,92.7,4700,4380,4249,2015,98.2
-586,School of Information Systems (4year programme),Information Systems Management,Singapore Management University,3500,3200,3500,85.9,4110,3660,3491,2015,94.8
-587,School of Information Systems (4year programme),Information Systems Management Cum Laude and above,Singapore Management University,3800,3500,3800,92.1,4166,3834,3577,2015,97.4
-588,School of Social Sciences (4year programme),Social Sciences,Singapore Management University,3200,2980,3100,83,3600,3550,3306,2015,89
-589,School of Social Sciences (4year programme),Social Sciences Cum Laude and above,Singapore Management University,3560,3300,3500,89.7,4583,4012,3887,2015,93.1
-590,School of Law (4year programme),Law,Singapore Management University,4731,4350,4600,99,5800,4997,4889,2015,99
-591,School of Law (4year programme),Law Cum Laude and above,Singapore Management University,5000,4500,4766,100,5995,5313,5160,2015,100
+580,School of Accountancy,Accountancy,Singapore Management University,3000,2850,2900,93,3500,3427,3287,2015,97.3
+581,School of Accountancy,Accountancy Cum Laude and above,Singapore Management University,3200,2850,3100,97.7,4110,3701,3597,2015,97.7
+582,School of Business,Business Management,Singapore Management University,3300,3000,3200,88.2,4000,3611,3513,2015,93.9
+583,School of Business,Business Management Cum Laude and above,Singapore Management University,3868,3200,3800,93.3,4600,4130,4050,2015,98.3
+584,School of Economics,Economics,Singapore Management University,3500,3200,3500,85.8,4100,3946,3798,2015,90.3
+585,School of Economics,Economics Cum Laude and above,Singapore Management University,3850,3500,3800,92.7,4700,4380,4249,2015,98.2
+586,School of Information Systems,Information Systems Management,Singapore Management University,3500,3200,3500,85.9,4110,3660,3491,2015,94.8
+587,School of Information Systems,Information Systems Management Cum Laude and above,Singapore Management University,3800,3500,3800,92.1,4166,3834,3577,2015,97.4
+588,School of Social Sciences,Social Sciences,Singapore Management University,3200,2980,3100,83,3600,3550,3306,2015,89
+589,School of Social Sciences,Social Sciences Cum Laude and above,Singapore Management University,3560,3300,3500,89.7,4583,4012,3887,2015,93.1
+590,School of Law,Law,Singapore Management University,4731,4350,4600,99,5800,4997,4889,2015,99
+591,School of Law,Law Cum Laude and above,Singapore Management University,5000,4500,4766,100,5995,5313,5160,2015,100
 592,na,Bachelor of Engineering (Engineering Product Development),Singapore University of Technology and Design,3600,3400,3618,88.1,3800,3565,3595,2015,92.5
 593,na,Bachelor of Engineering (Engineering Systems and Design),Singapore University of Technology and Design,3500,3190,3450,71.8,4100,3763,3699,2015,80.3
 594,na,Bachelor of Engineering (Information Systems Technology and Design),Singapore University of Technology and Design,3950,3338,3700,83.7,4450,3952,3872,2015,86
@@ -657,7 +657,7 @@
 655,College of Sciences,Biomedical Science (Traditional Chinese Medicine),Nanyang Technological University,2800,2500,2800,100,3105,2882,2832,2015,100
 656,College of Sciences,Biological Sciences,Nanyang Technological University,3190,2875,3000,65.3,3600,3229,3117,2015,74.6
 657,College of Sciences,Chemistry  Biological Chemistry,Nanyang Technological University,3000,2800,2900,72.3,3500,3139,2960,2015,83.9
-658,College of Sciences,Mathematics  Economics,Nanyang Technological University,3205,2925,3000,84.4,3500,3440,3291,2015,95.3
+658,College of Sciences,Mathematics and Economics,Nanyang Technological University,3205,2925,3000,84.4,3500,3440,3291,2015,95.3
 659,College of Sciences,Mathematical Science,Nanyang Technological University,3240,2950,3125,72.7,3500,3402,3254,2015,81.8
 660,College of Sciences,Physics  Applied Physics,Nanyang Technological University,3200,2900,3000,69.6,3400,3186,3098,2015,82.1
 661,College of Sciences,Sports Science and Management,Nanyang Technological University,3295,2900,3000,72.1,3600,3307,3232,2015,90.7
@@ -703,18 +703,18 @@
 701,Faculty of Science,Bachelor of Science,National University of Singapore,3000,2620,2900,64.2,3200,3052,2859,2015,84.3
 702,Faculty of Science,Bachelor of Science (Hons),National University of Singapore,3300,3000,3200,76.2,3600,3321,3245,2015,83.9
 703,MultiDisciplinary Programme,Bachelor of Environmental Studies,National University of Singapore,3500,3238,3462,59.4,3550,3433,3400,2015,71.9
-704,School of Accountancy (4year programme),Accountancy,Singapore Management University,3000,2850,2900,93,3500,3427,3287,2015,97.3
-705,School of Accountancy (4year programme),Accountancy Cum Laude and above,Singapore Management University,3200,2850,3100,97.7,4110,3701,3597,2015,97.7
-706,School of Business (4year programme),Business Management,Singapore Management University,3300,3000,3200,88.2,4000,3611,3513,2015,93.9
-707,School of Business (4year programme),Business Management Cum Laude and above,Singapore Management University,3868,3200,3800,93.3,4600,4130,4050,2015,98.3
-708,School of Economics (4year programme),Economics,Singapore Management University,3500,3200,3500,85.8,4100,3946,3798,2015,90.3
-709,School of Economics (4year programme),Economics Cum Laude and above,Singapore Management University,3850,3500,3800,92.7,4700,4380,4249,2015,98.2
-710,School of Information Systems (4year programme),Information Systems Management,Singapore Management University,3500,3200,3500,85.9,4110,3660,3491,2015,94.8
-711,School of Information Systems (4year programme),Information Systems Management Cum Laude and above,Singapore Management University,3800,3500,3800,92.1,4166,3834,3577,2015,97.4
-712,School of Social Sciences (4year programme),Social Sciences,Singapore Management University,3200,2980,3100,83,3600,3550,3306,2015,89
-713,School of Social Sciences (4year programme),Social Sciences Cum Laude and above,Singapore Management University,3560,3300,3500,89.7,4583,4012,3887,2015,93.1
-714,School of Law (4year programme),Law,Singapore Management University,4731,4350,4600,99,5800,4997,4889,2015,99
-715,School of Law (4year programme),Law Cum Laude and above,Singapore Management University,5000,4500,4766,100,5995,5313,5160,2015,100
+704,School of Accountancy,Accountancy,Singapore Management University,3000,2850,2900,93,3500,3427,3287,2015,97.3
+705,School of Accountancy,Accountancy Cum Laude and above,Singapore Management University,3200,2850,3100,97.7,4110,3701,3597,2015,97.7
+706,School of Business,Business Management,Singapore Management University,3300,3000,3200,88.2,4000,3611,3513,2015,93.9
+707,School of Business,Business Management Cum Laude and above,Singapore Management University,3868,3200,3800,93.3,4600,4130,4050,2015,98.3
+708,School of Economics,Economics,Singapore Management University,3500,3200,3500,85.8,4100,3946,3798,2015,90.3
+709,School of Economics,Economics Cum Laude and above,Singapore Management University,3850,3500,3800,92.7,4700,4380,4249,2015,98.2
+710,School of Information Systems,Information Systems Management,Singapore Management University,3500,3200,3500,85.9,4110,3660,3491,2015,94.8
+711,School of Information Systems,Information Systems Management Cum Laude and above,Singapore Management University,3800,3500,3800,92.1,4166,3834,3577,2015,97.4
+712,School of Social Sciences,Social Sciences,Singapore Management University,3200,2980,3100,83,3600,3550,3306,2015,89
+713,School of Social Sciences,Social Sciences Cum Laude and above,Singapore Management University,3560,3300,3500,89.7,4583,4012,3887,2015,93.1
+714,School of Law,Law,Singapore Management University,4731,4350,4600,99,5800,4997,4889,2015,99
+715,School of Law,Law Cum Laude and above,Singapore Management University,5000,4500,4766,100,5995,5313,5160,2015,100
 716,na,Bachelor of Engineering (Engineering Product Development),Singapore University of Technology and Design,3600,3400,3618,88.1,3800,3565,3595,2015,92.5
 717,na,Bachelor of Engineering (Engineering Systems and Design),Singapore University of Technology and Design,3500,3190,3450,71.8,4100,3763,3699,2015,80.3
 718,na,Bachelor of Engineering (Information Systems Technology and Design),Singapore University of Technology and Design,3950,3338,3700,83.7,4450,3952,3872,2015,86
@@ -780,7 +780,7 @@
 778,College of Sciences,Biological Sciences,Nanyang Technological University,3175,3000,3100,64,3550,3222,3132,2016,80.5
 779,College of Sciences,Chemistry  Biological Chemistry,Nanyang Technological University,3149,2925,3000,64.2,3500,3234,3119,2016,80.6
 780,College of Sciences,Mathematical Sciences,Nanyang Technological University,3500,3200,3400,76.9,3750,3535,3453,2016,88.5
-781,College of Sciences,Mathematics  Economics,Nanyang Technological University,3300,3000,3150,72.7,3750,3458,3346,2016,89.4
+781,College of Sciences,Mathematics and Economics,Nanyang Technological University,3300,3000,3150,72.7,3750,3458,3346,2016,89.4
 782,College of Sciences,Physics  Applied Physics,Nanyang Technological University,3450,3100,3350,77.1,4000,3683,3578,2016,85.7
 783,Sports Science and Management,Sports Science and Management,Nanyang Technological University,3200,2825,3100,66.1,3500,3272,3196,2016,83.1
 784,National Institute of Education (NIE),Arts (with Education),Nanyang Technological University,3525,3400,3500,100,3615,3525,3337,2016,100
@@ -823,18 +823,18 @@
 821,Yong Loo Lin School (Medicine),Bachelor of Science (Nursing) (Hons),National University of Singapore,3500,3400,3300,95.1,3600,3529,3308,2016,95.1
 822,Yong Siew Toh Conservatory of Music,Bachelor of Music,National University of Singapore,3250,2999,3250,14.3,3500,3250,3250,2016,85.7
 823,MultiDisciplinary Programme,Bachelor of Environmental Studies,National University of Singapore,3300,3000,3250,67.6,3500,3399,3347,2016,83.8
-824,School of Accountancy (4year programme),Accountancy,Singapore Management University,3000,2900,3000,96,3600,3455,3390,2016,98.5
-825,School of Accountancy (4year programme),Accountancy Cum Laude and above,Singapore Management University,3600,3000,3500,100,4583,3943,3827,2016,100
-826,School of Business (4year programme),Business Management,Singapore Management University,3500,3000,3400,84.6,4000,3831,3727,2016,92.4
-827,School of Business (4year programme),Business Management Cum Laude and above,Singapore Management University,3660,3250,3550,92.1,4583,4234,4140,2016,96.1
-828,School of Economics (4year programme),Economics,Singapore Management University,3700,3200,3500,84,4300,3906,3801,2016,93.4
-829,School of Economics (4year programme),Economics Cum Laude and above,Singapore Management University,4107,3800,4000,92.5,4750,4425,4315,2016,97
-830,School of Information Systems (4year programme),Information Systems Management,Singapore Management University,3600,3200,3500,91.5,4167,3897,3837,2016,95.7
-831,School of Information Systems (4year programme),Information Systems Management Cum Laude and above,Singapore Management University,4167,3800,4167,95,4750,4603,4504,2016,97.5
-832,School of Social Sciences (4year programme),Social Sciences,Singapore Management University,3145,3000,3100,80.4,3500,3311,3199,2016,91.5
-833,School of Social Sciences (4year programme),Social Sciences Cum Laude and above,Singapore Management University,3400,3000,3300,87.2,3668,3548,3405,2016,94.9
-834,School of Law (4year programme),Law,Singapore Management University,4850,4200,4600,93.7,5800,4915,4810,2016,95.8
-835,School of Law (4year programme),Law Cum Laude and above,Singapore Management University,5300,4500,4950,96.7,5800,5095,4950,2016,96.7
+824,School of Accountancy,Accountancy,Singapore Management University,3000,2900,3000,96,3600,3455,3390,2016,98.5
+825,School of Accountancy,Accountancy Cum Laude and above,Singapore Management University,3600,3000,3500,100,4583,3943,3827,2016,100
+826,School of Business,Business Management,Singapore Management University,3500,3000,3400,84.6,4000,3831,3727,2016,92.4
+827,School of Business,Business Management Cum Laude and above,Singapore Management University,3660,3250,3550,92.1,4583,4234,4140,2016,96.1
+828,School of Economics,Economics,Singapore Management University,3700,3200,3500,84,4300,3906,3801,2016,93.4
+829,School of Economics,Economics Cum Laude and above,Singapore Management University,4107,3800,4000,92.5,4750,4425,4315,2016,97
+830,School of Information Systems,Information Systems Management,Singapore Management University,3600,3200,3500,91.5,4167,3897,3837,2016,95.7
+831,School of Information Systems,Information Systems Management Cum Laude and above,Singapore Management University,4167,3800,4167,95,4750,4603,4504,2016,97.5
+832,School of Social Sciences,Social Sciences,Singapore Management University,3145,3000,3100,80.4,3500,3311,3199,2016,91.5
+833,School of Social Sciences,Social Sciences Cum Laude and above,Singapore Management University,3400,3000,3300,87.2,3668,3548,3405,2016,94.9
+834,School of Law,Law,Singapore Management University,4850,4200,4600,93.7,5800,4915,4810,2016,95.8
+835,School of Law,Law Cum Laude and above,Singapore Management University,5300,4500,4950,96.7,5800,5095,4950,2016,96.7
 836,DigiPen Institute of Technology,Bachelor of Arts in Game Design,Singapore Institute of Technology,na,na,na,na,na,na,na,2016,na
 837,DigiPen Institute of Technology,Bachelor of Fine Arts in Digital Arts Animation,Singapore Institute of Technology,3000,2700,3000,53.3,3016,3052,3045,2016,73.3
 838,DigiPen Institute of Technology,Bachelor of Science in Computer Science  Game Design,Singapore Institute of Technology,3400,3100,3400,85.7,3500,3329,3312,2016,85.7
@@ -902,7 +902,7 @@
 900,College of Sciences,Biological Sciences,Nanyang Technological University,3175,3000,3100,64,3550,3222,3132,2016,80.5
 901,College of Sciences,Chemistry  Biological Chemistry,Nanyang Technological University,3149,2925,3000,64.2,3500,3234,3119,2016,80.6
 902,College of Sciences,Mathematical Sciences,Nanyang Technological University,3500,3200,3400,76.9,3750,3535,3453,2016,88.5
-903,College of Sciences,Mathematics  Economics,Nanyang Technological University,3300,3000,3150,72.7,3750,3458,3346,2016,89.4
+903,College of Sciences,Mathematics and Economics,Nanyang Technological University,3300,3000,3150,72.7,3750,3458,3346,2016,89.4
 904,College of Sciences,Physics  Applied Physics,Nanyang Technological University,3450,3100,3350,77.1,4000,3683,3578,2016,85.7
 905,Sports Science and Management,Sports Science and Management,Nanyang Technological University,3200,2825,3100,66.1,3500,3272,3196,2016,83.1
 906,National Institute of Education (NIE),Arts (with Education),Nanyang Technological University,3525,3400,3500,100,3615,3525,3337,2016,100
@@ -945,18 +945,18 @@
 943,Yong Loo Lin School (Medicine),Bachelor of Science (Nursing) (Hons),National University of Singapore,3500,3400,3300,95.1,3600,3529,3308,2016,95.1
 944,Yong Siew Toh Conservatory of Music,Bachelor of Music,National University of Singapore,3250,2999,3250,14.3,3500,3250,3250,2016,85.7
 945,MultiDisciplinary Programme,Bachelor of Environmental Studies,National University of Singapore,3300,3000,3250,67.6,3500,3399,3347,2016,83.8
-946,School of Accountancy (4year programme),Accountancy,Singapore Management University,3000,2900,3000,96,3600,3455,3390,2016,98.5
-947,School of Accountancy (4year programme),Accountancy Cum Laude and above,Singapore Management University,3600,3000,3500,100,4583,3943,3827,2016,100
-948,School of Business (4year programme),Business Management,Singapore Management University,3500,3000,3400,84.6,4000,3831,3727,2016,92.4
-949,School of Business (4year programme),Business Management Cum Laude and above,Singapore Management University,3660,3250,3550,92.1,4583,4234,4140,2016,96.1
-950,School of Economics (4year programme),Economics,Singapore Management University,3700,3200,3500,84,4300,3906,3801,2016,93.4
-951,School of Economics (4year programme),Economics Cum Laude and above,Singapore Management University,4107,3800,4000,92.5,4750,4425,4315,2016,97
-952,School of Information Systems (4year programme),Information Systems Management,Singapore Management University,3600,3200,3500,91.5,4167,3897,3837,2016,95.7
-953,School of Information Systems (4year programme),Information Systems Management Cum Laude and above,Singapore Management University,4167,3800,4167,95,4750,4603,4504,2016,97.5
-954,School of Social Sciences (4year programme),Social Sciences,Singapore Management University,3145,3000,3100,80.4,3500,3311,3199,2016,91.5
-955,School of Social Sciences (4year programme),Social Sciences Cum Laude and above,Singapore Management University,3400,3000,3300,87.2,3668,3548,3405,2016,94.9
-956,School of Law (4year programme),Law,Singapore Management University,4850,4200,4600,93.7,5800,4915,4810,2016,95.8
-957,School of Law (4year programme),Law Cum Laude and above,Singapore Management University,5300,4500,4950,96.7,5800,5095,4950,2016,96.7
+946,School of Accountancy,Accountancy,Singapore Management University,3000,2900,3000,96,3600,3455,3390,2016,98.5
+947,School of Accountancy,Accountancy Cum Laude and above,Singapore Management University,3600,3000,3500,100,4583,3943,3827,2016,100
+948,School of Business,Business Management,Singapore Management University,3500,3000,3400,84.6,4000,3831,3727,2016,92.4
+949,School of Business,Business Management Cum Laude and above,Singapore Management University,3660,3250,3550,92.1,4583,4234,4140,2016,96.1
+950,School of Economics,Economics,Singapore Management University,3700,3200,3500,84,4300,3906,3801,2016,93.4
+951,School of Economics,Economics Cum Laude and above,Singapore Management University,4107,3800,4000,92.5,4750,4425,4315,2016,97
+952,School of Information Systems,Information Systems Management,Singapore Management University,3600,3200,3500,91.5,4167,3897,3837,2016,95.7
+953,School of Information Systems,Information Systems Management Cum Laude and above,Singapore Management University,4167,3800,4167,95,4750,4603,4504,2016,97.5
+954,School of Social Sciences,Social Sciences,Singapore Management University,3145,3000,3100,80.4,3500,3311,3199,2016,91.5
+955,School of Social Sciences,Social Sciences Cum Laude and above,Singapore Management University,3400,3000,3300,87.2,3668,3548,3405,2016,94.9
+956,School of Law,Law,Singapore Management University,4850,4200,4600,93.7,5800,4915,4810,2016,95.8
+957,School of Law,Law Cum Laude and above,Singapore Management University,5300,4500,4950,96.7,5800,5095,4950,2016,96.7
 958,DigiPen Institute of Technology,Bachelor of Arts in Game Design,Singapore Institute of Technology,na,na,na,na,na,na,na,2016,na
 959,DigiPen Institute of Technology,Bachelor of Fine Arts in Digital Arts Animation,Singapore Institute of Technology,3000,2700,3000,53.3,3016,3052,3045,2016,73.3
 960,DigiPen Institute of Technology,Bachelor of Science in Computer Science  Game Design,Singapore Institute of Technology,3400,3100,3400,85.7,3500,3329,3312,2016,85.7
@@ -1027,7 +1027,7 @@
 1025,College of Sciences,Bachelor of Science (Hons) in Biological Sciences,Nanyang Technological University,3200,3000,3100,62.6,3500,3255,3177,2017,80.4
 1026,College of Sciences,Bachelor of Science (Hons) in Chemistry  Biological Chemistry,Nanyang Technological University,3100,2800,3000,51.1,3488,3173,3035,2017,70.1
 1027,College of Sciences,Bachelor of Science (Hons) in Mathematical Sciences,Nanyang Technological University,3500,3100,3400,79.5,3800,3580,3517,2017,89.7
-1028,College of Sciences,Bachelor of Science (Hons) in Mathematics  Economics,Nanyang Technological University,3400,3013,3290,83.1,3775,3625,3504,2017,89.8
+1028,College of Sciences,Bachelor of Science (Hons) in Mathematics and Economics,Nanyang Technological University,3400,3013,3290,83.1,3775,3625,3504,2017,89.8
 1029,College of Sciences,Bachelor of Science (Hons) in PhysicsApplied Physics,Nanyang Technological University,3300,3000,3300,61.8,3819,3490,3367,2017,81.6
 1030,Sports Science and Management,Bachelor of Science (Hons) (Sport Science  Management),Nanyang Technological University,3450,2800,3285,48.6,4000,3486,3372,2017,81.1
 1031,National Institute of Education (NIE),Bachelor of Arts (Hons) (Education),Nanyang Technological University,3600,3500,3600,100,3800,3589,3489,2017,100
@@ -1074,18 +1074,18 @@
 1072,YaleNUS College,Bachelor of Science with Honours,National University of Singapore,4083,3600,4083,75,4875,4362,4362,2017,91.7
 1073,MultiDisciplinary Programmes,Bachelor of Engineering (Computer Engineering),National University of Singapore,3900,3588,3600,84.7,4500,4131,4010,2017,89.4
 1074,MultiDisciplinary Programmes,Bachelor of Environmental Studies,National University of Singapore,3300,3000,3200,62.3,3600,3419,3297,2017,88.7
-1075,School of Accountancy (4year programme),Accountancy,Singapore Management University,3000,2920,3000,96.6,3600,3646,3569,2017,98
-1076,School of Accountancy (4year programme),Accountancy Cum Laude and above,Singapore Management University,3200,3000,3200,97.8,4645,4089,4037,2017,97.8
-1077,School of Business (4year programme),Business Management,Singapore Management University,3500,3050,3475,85.7,4362,3995,3862,2017,93.3
-1078,School of Business (4year programme),Business Management Cum Laude and above,Singapore Management University,4000,3300,3880,92,5000,4504,4364,2017,95.8
-1079,School of Economics (4year programme),Economics,Singapore Management University,3700,3300,3600,82.6,4583,4143,4013,2017,91.3
-1080,School of Economics (4year programme),Economics Cum Laude and above,Singapore Management University,4100,3600,4000,90.5,5113,4737,4591,2017,93.2
-1081,School of Information Systems (4year programme),Information Systems Management,Singapore Management University,4000,3550,3905,91.3,4500,4014,3922,2017,95.1
-1082,School of Information Systems (4year programme),Information Systems Management Cum Laude and above,Singapore Management University,4334,4000,4334,94.1,4750,4305,4211,2017,96.1
-1083,School of Social Sciences (4year programme),Social Sciences,Singapore Management University,3300,3000,3250,78,3750,3493,3344,2017,91.3
-1084,School of Social Sciences (4year programme),Social Sciences Cum Laude and above,Singapore Management University,3630,3300,3600,81.8,4000,3938,3810,2017,87.9
-1085,School of Law (4year programme),Law,Singapore Management University,5000,4000,4500,94,5840,4941,4778,2017,97.6
-1086,School of Law (4year programme),Law Cum Laude and above,Singapore Management University,5600,4200,5450,97.9,6000,5287,5163,2017,97.9
+1075,School of Accountancy,Accountancy,Singapore Management University,3000,2920,3000,96.6,3600,3646,3569,2017,98
+1076,School of Accountancy,Accountancy Cum Laude and above,Singapore Management University,3200,3000,3200,97.8,4645,4089,4037,2017,97.8
+1077,School of Business,Business Management,Singapore Management University,3500,3050,3475,85.7,4362,3995,3862,2017,93.3
+1078,School of Business,Business Management Cum Laude and above,Singapore Management University,4000,3300,3880,92,5000,4504,4364,2017,95.8
+1079,School of Economics,Economics,Singapore Management University,3700,3300,3600,82.6,4583,4143,4013,2017,91.3
+1080,School of Economics,Economics Cum Laude and above,Singapore Management University,4100,3600,4000,90.5,5113,4737,4591,2017,93.2
+1081,School of Information Systems,Information Systems Management,Singapore Management University,4000,3550,3905,91.3,4500,4014,3922,2017,95.1
+1082,School of Information Systems,Information Systems Management Cum Laude and above,Singapore Management University,4334,4000,4334,94.1,4750,4305,4211,2017,96.1
+1083,School of Social Sciences,Social Sciences,Singapore Management University,3300,3000,3250,78,3750,3493,3344,2017,91.3
+1084,School of Social Sciences,Social Sciences Cum Laude and above,Singapore Management University,3630,3300,3600,81.8,4000,3938,3810,2017,87.9
+1085,School of Law,Law,Singapore Management University,5000,4000,4500,94,5840,4941,4778,2017,97.6
+1086,School of Law,Law Cum Laude and above,Singapore Management University,5600,4200,5450,97.9,6000,5287,5163,2017,97.9
 1087,DigiPen Institute of Technology,Bachelor of Arts in Game Design,Singapore Institute of Technology,3000,2800,3000,92.3,3200,3067,3040,2017,96.2
 1088,DigiPen Institute of Technology,Bachelor of Fine Arts in Digital Arts Animation,Singapore Institute of Technology,2875,2700,2825,69.2,3000,2876,2859,2017,88.5
 1089,Faculty Of Dentistry,Bachelor of Dental Surgery,National University of Singapore,4050,4000,4050,100,4400,4143,4124,2017,100
@@ -1160,7 +1160,7 @@
 1158,College of Sciences,Bachelor of Science (Hons) in Biological Sciences,Nanyang Technological University,3200,3000,3100,62.6,3500,3255,3177,2017,80.4
 1159,College of Sciences,Bachelor of Science (Hons) in Chemistry  Biological Chemistry,Nanyang Technological University,3100,2800,3000,51.1,3488,3173,3035,2017,70.1
 1160,College of Sciences,Bachelor of Science (Hons) in Mathematical Sciences,Nanyang Technological University,3500,3100,3400,79.5,3800,3580,3517,2017,89.7
-1161,College of Sciences,Bachelor of Science (Hons) in Mathematics  Economics,Nanyang Technological University,3400,3013,3290,83.1,3775,3625,3504,2017,89.8
+1161,College of Sciences,Bachelor of Science (Hons) in Mathematics and Economics,Nanyang Technological University,3400,3013,3290,83.1,3775,3625,3504,2017,89.8
 1162,College of Sciences,Bachelor of Science (Hons) in PhysicsApplied Physics,Nanyang Technological University,3300,3000,3300,61.8,3819,3490,3367,2017,81.6
 1163,Sports Science and Management,Bachelor of Science (Hons) (Sport Science  Management),Nanyang Technological University,3450,2800,3285,48.6,4000,3486,3372,2017,81.1
 1164,National Institute of Education (NIE),Bachelor of Arts (Hons) (Education),Nanyang Technological University,3600,3500,3600,100,3800,3589,3489,2017,100
@@ -1207,18 +1207,18 @@
 1205,YaleNUS College,Bachelor of Science with Honours,National University of Singapore,4083,3600,4083,75,4875,4362,4362,2017,91.7
 1206,MultiDisciplinary Programmes,Bachelor of Engineering (Computer Engineering),National University of Singapore,3900,3588,3600,84.7,4500,4131,4010,2017,89.4
 1207,MultiDisciplinary Programmes,Bachelor of Environmental Studies,National University of Singapore,3300,3000,3200,62.3,3600,3419,3297,2017,88.7
-1208,School of Accountancy (4year programme),Accountancy,Singapore Management University,3000,2920,3000,96.6,3600,3646,3569,2017,98
-1209,School of Accountancy (4year programme),Accountancy Cum Laude and above,Singapore Management University,3200,3000,3200,97.8,4645,4089,4037,2017,97.8
-1210,School of Business (4year programme),Business Management,Singapore Management University,3500,3050,3475,85.7,4362,3995,3862,2017,93.3
-1211,School of Business (4year programme),Business Management Cum Laude and above,Singapore Management University,4000,3300,3880,92,5000,4504,4364,2017,95.8
-1212,School of Economics (4year programme),Economics,Singapore Management University,3700,3300,3600,82.6,4583,4143,4013,2017,91.3
-1213,School of Economics (4year programme),Economics Cum Laude and above,Singapore Management University,4100,3600,4000,90.5,5113,4737,4591,2017,93.2
-1214,School of Information Systems (4year programme),Information Systems Management,Singapore Management University,4000,3550,3905,91.3,4500,4014,3922,2017,95.1
-1215,School of Information Systems (4year programme),Information Systems Management Cum Laude and above,Singapore Management University,4334,4000,4334,94.1,4750,4305,4211,2017,96.1
-1216,School of Social Sciences (4year programme),Social Sciences,Singapore Management University,3300,3000,3250,78,3750,3493,3344,2017,91.3
-1217,School of Social Sciences (4year programme),Social Sciences Cum Laude and above,Singapore Management University,3630,3300,3600,81.8,4000,3938,3810,2017,87.9
-1218,School of Law (4year programme),Law,Singapore Management University,5000,4000,4500,94,5840,4941,4778,2017,97.6
-1219,School of Law (4year programme),Law Cum Laude and above,Singapore Management University,5600,4200,5450,97.9,6000,5287,5163,2017,97.9
+1208,School of Accountancy,Accountancy,Singapore Management University,3000,2920,3000,96.6,3600,3646,3569,2017,98
+1209,School of Accountancy,Accountancy Cum Laude and above,Singapore Management University,3200,3000,3200,97.8,4645,4089,4037,2017,97.8
+1210,School of Business,Business Management,Singapore Management University,3500,3050,3475,85.7,4362,3995,3862,2017,93.3
+1211,School of Business,Business Management Cum Laude and above,Singapore Management University,4000,3300,3880,92,5000,4504,4364,2017,95.8
+1212,School of Economics,Economics,Singapore Management University,3700,3300,3600,82.6,4583,4143,4013,2017,91.3
+1213,School of Economics,Economics Cum Laude and above,Singapore Management University,4100,3600,4000,90.5,5113,4737,4591,2017,93.2
+1214,School of Information Systems,Information Systems Management,Singapore Management University,4000,3550,3905,91.3,4500,4014,3922,2017,95.1
+1215,School of Information Systems,Information Systems Management Cum Laude and above,Singapore Management University,4334,4000,4334,94.1,4750,4305,4211,2017,96.1
+1216,School of Social Sciences,Social Sciences,Singapore Management University,3300,3000,3250,78,3750,3493,3344,2017,91.3
+1217,School of Social Sciences,Social Sciences Cum Laude and above,Singapore Management University,3630,3300,3600,81.8,4000,3938,3810,2017,87.9
+1218,School of Law,Law,Singapore Management University,5000,4000,4500,94,5840,4941,4778,2017,97.6
+1219,School of Law,Law Cum Laude and above,Singapore Management University,5600,4200,5450,97.9,6000,5287,5163,2017,97.9
 1220,DigiPen Institute of Technology,Bachelor of Arts in Game Design,Singapore Institute of Technology,3000,2800,3000,92.3,3200,3067,3040,2017,96.2
 1221,DigiPen Institute of Technology,Bachelor of Fine Arts in Digital Arts Animation,Singapore Institute of Technology,2875,2700,2825,69.2,3000,2876,2859,2017,88.5
 1222,DigiPen Institute of Technology,Bachelor of Science in Computer Science  Game Design,Singapore Institute of Technology,3250,2900,3250,100,3600,3291,3232,2017,100
@@ -1291,7 +1291,7 @@
 1289,College of Sciences,Chemistry  Biological Chemistry,Nanyang Technological University,3200,3000,3167,63.9,3725,3427,3205,2018,77.6
 1290,College of Sciences,Environmental Earth Systems Science,Nanyang Technological University,3440,3150,3440,57.1,3900,3389,3347,2018,76.2
 1291,College of Sciences,Mathematical Sciences,Nanyang Technological University,3650,3360,3600,75.9,4000,3744,3661,2018,87.1
-1292,College of Sciences,Mathematics  Economics,Nanyang Technological University,3600,3200,3500,83.3,4000,3569,3481,2018,96.3
+1292,College of Sciences,Mathematics and Economics,Nanyang Technological University,3600,3200,3500,83.3,4000,3569,3481,2018,96.3
 1293,College of Sciences,Physics  Applied Physics,Nanyang Technological University,3400,3025,3300,74.1,3800,3576,3468,2018,80.2
 1294,National Institute of Education (NIE),Arts (With Education),Nanyang Technological University,3800,3600,3750,99.2,3806,3751,3618,2018,100
 1295,National Institute of Education (NIE),Science (With Education),Nanyang Technological University,3800,3600,3800,100,4000,3738,3600,2018,100
@@ -1371,18 +1371,18 @@
 1369,University of Glasgow,Bachelor of Science with Honours in Computing Science,Singapore Institute of Technology,4000,3500,3929,89.3,4225,3996,3926,2018,94.7
 1370,University of Liverpool,Bachelor of Arts with Honours in Criminology and Security,Singapore Institute of Technology,3729,3260,3500,74.2,4100,3726,3645,2018,91.9
 1371,Wheelock College,Bachelor of Science in Early Childhood Education,Singapore Institute of Technology,2925,2800,2925,98.2,3100,2911,2897,2018,100
-1372,School of Accountancy (4year programme),Accountancy,Singapore Management University,3000,3000,3000,92.3,3650,3607,3576,2018,96.4
-1373,School of Accountancy (4year programme),Accountancy (Cum Laude and above),Singapore Management University,3550,3013,3450,95.1,4773,4439,4396,2018,96.3
-1374,School of Business (4year programme),Business Management,Singapore Management University,3700,3250,3600,86.5,4500,4133,4017,2018,91.6
-1375,School of Business (4year programme),Business Management (Cum Laude and above),Singapore Management University,4000,3500,4000,95.6,4800,4544,4433,2018,97.4
-1376,School of Economics (4year programme),Economics,Singapore Management University,3700,3200,3500,85.6,4600,4140,4017,2018,91.1
-1377,School of Economics (4year programme),Economics (Cum Laude and above),Singapore Management University,4000,3500,4000,89.5,5200,4721,4599,2018,93.4
-1378,School of Information Systems (4year programme),Information Systems,Singapore Management University,4000,3600,4000,89.5,4600,4160,4058,2018,93.6
-1379,School of Information Systems (4year programme),Information Systems (Cum Laude and above),Singapore Management University,4685,4200,4650,97.2,5000,4659,4584,2018,100
-1380,School of Social Sciences (4year programme),Social Sciences,Singapore Management University,3210,3000,3200,74.4,3710,3409,3336,2018,85.6
-1381,School of Social Sciences (4year programme),Social Sciences (Cum Laude and above),Singapore Management University,3600,3200,3550,78.9,4100,3880,3818,2018,84.2
-1382,School of Law (4year programme),Law,Singapore Management University,4500,4050,4500,90.8,5600,4856,4704,2018,92.7
-1383,School of Law (4year programme),Law (Cum Laude and above),Singapore Management University,5513,4500,4750,92.6,6000,5256,4986,2018,94.4
+1372,School of Accountancy,Accountancy,Singapore Management University,3000,3000,3000,92.3,3650,3607,3576,2018,96.4
+1373,School of Accountancy,Accountancy Cum Laude and above,Singapore Management University,3550,3013,3450,95.1,4773,4439,4396,2018,96.3
+1374,School of Business,Business Management,Singapore Management University,3700,3250,3600,86.5,4500,4133,4017,2018,91.6
+1375,School of Business,Business Management Cum Laude and above,Singapore Management University,4000,3500,4000,95.6,4800,4544,4433,2018,97.4
+1376,School of Economics,Economics,Singapore Management University,3700,3200,3500,85.6,4600,4140,4017,2018,91.1
+1377,School of Economics,Economics Cum Laude and above,Singapore Management University,4000,3500,4000,89.5,5200,4721,4599,2018,93.4
+1378,School of Information Systems,Information Systems,Singapore Management University,4000,3600,4000,89.5,4600,4160,4058,2018,93.6
+1379,School of Information Systems,Information Systems Cum Laude and above,Singapore Management University,4685,4200,4650,97.2,5000,4659,4584,2018,100
+1380,School of Social Sciences,Social Sciences,Singapore Management University,3210,3000,3200,74.4,3710,3409,3336,2018,85.6
+1381,School of Social Sciences,Social Sciences Cum Laude and above,Singapore Management University,3600,3200,3550,78.9,4100,3880,3818,2018,84.2
+1382,School of Law,Law,Singapore Management University,4500,4050,4500,90.8,5600,4856,4704,2018,92.7
+1383,School of Law,Law Cum Laude and above,Singapore Management University,5513,4500,4750,92.6,6000,5256,4986,2018,94.4
 1384,School of Business,Bachelor of Accountancy,Singapore University of Social Sciences,3000,2700,2850,97.5,3000,2879,2858,2018,98.7
 1385,School of Business,Bachelor of Science in Finance,Singapore University of Social Sciences,3400,3200,3400,84,3500,3393,3364,2018,88
 1386,School of Business,Bachelor of Science in Marketing,Singapore University of Social Sciences,3000,2650,3000,84,3245,3023,2925,2018,94
@@ -1428,7 +1428,7 @@
 1426,College of Sciences,Biomedical Sciences  Chinese Medicine ,Nanyang Technological University,3000,2700,3000,81.8,3100,2953,2941,2018,90.9
 1427,College of Sciences,Chemistry  Biological Chemistry,Nanyang Technological University,3200,3000,3167,63.9,3725,3427,3205,2018,77.6
 1428,College of Sciences,Environmental Earth Systems Science,Nanyang Technological University,3440,3150,3440,57.1,3900,3389,3347,2018,76.2
-1429,College of Sciences,Mathematics  Economics,Nanyang Technological University,3600,3200,3500,83.3,4000,3569,3481,2018,96.3
+1429,College of Sciences,Mathematics and Economics,Nanyang Technological University,3600,3200,3500,83.3,4000,3569,3481,2018,96.3
 1430,College of Sciences,Physics  Applied Physics,Nanyang Technological University,3400,3025,3300,74.1,3800,3576,3468,2018,80.2
 1431,National Institute of Education (NIE),Arts (With Education),Nanyang Technological University,3800,3600,3750,99.2,3806,3751,3618,2018,100
 1432,National Institute of Education (NIE),Science (With Education),Nanyang Technological University,3800,3600,3800,100,4000,3738,3600,2018,100
@@ -1508,18 +1508,18 @@
 1506,University of Glasgow,Bachelor of Science with Honours in Computing Science,Singapore Institute of Technology,4000,3500,3929,89.3,4225,3996,3926,2018,94.7
 1507,University of Liverpool,Bachelor of Arts with Honours in Criminology and Security,Singapore Institute of Technology,3729,3260,3500,74.2,4100,3726,3645,2018,91.9
 1508,Wheelock College,Bachelor of Science in Early Childhood Education,Singapore Institute of Technology,2925,2800,2925,98.2,3100,2911,2897,2018,100
-1509,School of Accountancy (4year programme),Accountancy,Singapore Management University,3000,3000,3000,92.3,3650,3607,3576,2018,96.4
-1510,School of Accountancy (4year programme),Accountancy (Cum Laude and above),Singapore Management University,3550,3013,3450,95.1,4773,4439,4396,2018,96.3
-1511,School of Business (4year programme),Business Management,Singapore Management University,3700,3250,3600,86.5,4500,4133,4017,2018,91.6
-1512,School of Business (4year programme),Business Management (Cum Laude and above),Singapore Management University,4000,3500,4000,95.6,4800,4544,4433,2018,97.4
-1513,School of Economics (4year programme),Economics,Singapore Management University,3700,3200,3500,85.6,4600,4140,4017,2018,91.1
-1514,School of Economics (4year programme),Economics (Cum Laude and above),Singapore Management University,4000,3500,4000,89.5,5200,4721,4599,2018,93.4
-1515,School of Information Systems (4year programme),Information Systems,Singapore Management University,4000,3600,4000,89.5,4600,4160,4058,2018,93.6
-1516,School of Information Systems (4year programme),Information Systems (Cum Laude and above),Singapore Management University,4685,4200,4650,97.2,5000,4659,4584,2018,100
-1517,School of Social Sciences (4year programme),Social Sciences,Singapore Management University,3210,3000,3200,74.4,3710,3409,3336,2018,85.6
-1518,School of Social Sciences (4year programme),Social Sciences (Cum Laude and above),Singapore Management University,3600,3200,3550,78.9,4100,3880,3818,2018,84.2
-1519,School of Law (4year programme),Law,Singapore Management University,4500,4050,4500,90.8,5600,4856,4704,2018,92.7
-1520,School of Law (4year programme),Law (Cum Laude and above),Singapore Management University,5513,4500,4750,92.6,6000,5256,4986,2018,94.4
+1509,School of Accountancy,Accountancy,Singapore Management University,3000,3000,3000,92.3,3650,3607,3576,2018,96.4
+1510,School of Accountancy,Accountancy Cum Laude and above,Singapore Management University,3550,3013,3450,95.1,4773,4439,4396,2018,96.3
+1511,School of Business,Business Management,Singapore Management University,3700,3250,3600,86.5,4500,4133,4017,2018,91.6
+1512,School of Business,Business Management Cum Laude and above,Singapore Management University,4000,3500,4000,95.6,4800,4544,4433,2018,97.4
+1513,School of Economics,Economics,Singapore Management University,3700,3200,3500,85.6,4600,4140,4017,2018,91.1
+1514,School of Economics,Economics Cum Laude and above,Singapore Management University,4000,3500,4000,89.5,5200,4721,4599,2018,93.4
+1515,School of Information Systems,Information Systems,Singapore Management University,4000,3600,4000,89.5,4600,4160,4058,2018,93.6
+1516,School of Information Systems,Information Systems Cum Laude and above,Singapore Management University,4685,4200,4650,97.2,5000,4659,4584,2018,100
+1517,School of Social Sciences,Social Sciences,Singapore Management University,3210,3000,3200,74.4,3710,3409,3336,2018,85.6
+1518,School of Social Sciences,Social Sciences Cum Laude and above,Singapore Management University,3600,3200,3550,78.9,4100,3880,3818,2018,84.2
+1519,School of Law,Law,Singapore Management University,4500,4050,4500,90.8,5600,4856,4704,2018,92.7
+1520,School of Law,Law Cum Laude and above,Singapore Management University,5513,4500,4750,92.6,6000,5256,4986,2018,94.4
 1521,School of Business,Bachelor of Accountancy,Singapore University of Social Sciences,3000,2700,2850,97.5,3000,2879,2858,2018,98.7
 1522,School of Business,Bachelor of Science in Finance,Singapore University of Social Sciences,3400,3200,3400,84,3500,3393,3364,2018,88
 1523,School of Business,Bachelor of Science in Marketing,Singapore University of Social Sciences,3000,2650,3000,84,3245,3023,2925,2018,94
@@ -1566,7 +1566,7 @@
 1564,College of Sciences,Chemistry  Biological Chemistry,Nanyang Technological University,3400,3000,3200,66.2,3600,3338,3246,2019,80.9
 1565,College of Sciences,Environmental Earth Systems Sciences,Nanyang Technological University,3500,3200,3500,79.2,3500,3416,3401,2019,87.5
 1566,College of Sciences,Mathematical Sciences,Nanyang Technological University,3599,3215,3549,79.6,4070,3848,3741,2019,91.2
-1567,College of Sciences,Mathematics  Economics,Nanyang Technological University,3700,3400,3570,84.8,4167,3996,3838,2019,93.5
+1567,College of Sciences,Mathematics and Economics,Nanyang Technological University,3700,3400,3570,84.8,4167,3996,3838,2019,93.5
 1568,College of Sciences,Physics  Applied Physics,Nanyang Technological University,3500,3300,3500,78.6,4200,3849,3782,2019,90
 1569,Sports Science and Management,Sports Science and Management,Nanyang Technological University,3350,3000,3200,55.6,3660,3438,3289,2019,87
 1570,National Institute of Education (NIE),Arts (with Education),Nanyang Technological University,3800,3600,3800,100,3806,3710,3629,2019,100
@@ -1647,18 +1647,18 @@
 1645,University of Glasgow,Bachelor of Engineering with Honours in Mechatronics,Singapore Institute of Technology,3600,3300,3600,83.1,4000,3793,3764,2019,93.2
 1646,University of Glasgow,Bachelor of Science with Honours in Computing Science,Singapore Institute of Technology,4200,3700,4000,89.2,5100,4366,4294,2019,92.3
 1647,University of Liverpool,Bachelor of Arts with Honours in Criminology and Security,Singapore Institute of Technology,3695,3400,3526,70.4,4050,3823,3647,2019,80.2
-1648,School of Accountancy (4year programme),Accountancy,Singapore Management University,3050,3000,3000,93.7,4000,3802,3753,2019,96.4
-1649,School of Accountancy (4year programme),Accountancy (Cum Laude and above),Singapore Management University,3600,3000,3500,97.9,5000,4431,4364,2019,97.9
-1650,School of Business (4year programme),Business Management,Singapore Management University,3750,3300,3600,84.8,4600,4181,4056,2019,91
-1651,School of Business (4year programme),Business Management (Cum Laude and above),Singapore Management University,4167,3600,4000,90.4,5120,4614,4504,2019,93
-1652,School of Economics (4year programme),Economics,Singapore Management University,3900,3500,3800,81.3,4500,4159,4042,2019,87.1
-1653,School of Economics (4year programme),Economics (Cum Laude and above),Singapore Management University,4038,3600,4000,89.9,4600,4520,4401,2019,94.2
-1654,School of Information Systems (4year programme),Information Systems,Singapore Management University,4300,4000,4166,90.2,5000,4549,4413,2019,95.1
-1655,School of Information Systems (4year programme),Information Systems (Cum Laude and above),Singapore Management University,5000,4300,5000,96,5550,5212,5029,2019,98
-1656,School of Social Sciences (4year programme),Social Sciences,Singapore Management University,3500,3065,3400,82.8,4000,3629,3523,2019,92.2
-1657,School of Social Sciences (4year programme),Social Sciences (Cum Laude and above),Singapore Management University,3500,3100,3500,90.2,4070,3742,3599,2019,92.7
-1658,School of Law (4year programme),Law,Singapore Management University,4900,4200,4600,98.2,5800,5064,4942,2019,99.1
-1659,School of Law (4year programme),Law (Cum Laude and above),Singapore Management University,5550,4500,5000,97.1,6000,5324,5136,2019,98.6
+1648,School of Accountancy,Accountancy,Singapore Management University,3050,3000,3000,93.7,4000,3802,3753,2019,96.4
+1649,School of Accountancy,Accountancy Cum Laude and above,Singapore Management University,3600,3000,3500,97.9,5000,4431,4364,2019,97.9
+1650,School of Business,Business Management,Singapore Management University,3750,3300,3600,84.8,4600,4181,4056,2019,91
+1651,School of Business,Business Management Cum Laude and above,Singapore Management University,4167,3600,4000,90.4,5120,4614,4504,2019,93
+1652,School of Economics,Economics,Singapore Management University,3900,3500,3800,81.3,4500,4159,4042,2019,87.1
+1653,School of Economics,Economics Cum Laude and above,Singapore Management University,4038,3600,4000,89.9,4600,4520,4401,2019,94.2
+1654,School of Information Systems,Information Systems,Singapore Management University,4300,4000,4166,90.2,5000,4549,4413,2019,95.1
+1655,School of Information Systems,Information Systems Cum Laude and above,Singapore Management University,5000,4300,5000,96,5550,5212,5029,2019,98
+1656,School of Social Sciences,Social Sciences,Singapore Management University,3500,3065,3400,82.8,4000,3629,3523,2019,92.2
+1657,School of Social Sciences,Social Sciences Cum Laude and above,Singapore Management University,3500,3100,3500,90.2,4070,3742,3599,2019,92.7
+1658,School of Law,Law,Singapore Management University,4900,4200,4600,98.2,5800,5064,4942,2019,99.1
+1659,School of Law,Law Cum Laude and above,Singapore Management University,5550,4500,5000,97.1,6000,5324,5136,2019,98.6
 1660,S R Nathan School of Human Development,Bachelor of Human Resource Management,Singapore University of Social Sciences,3000,2800,3000,74.2,3300,2975,2942,2019,87.1
 1661,School of Business,Bachelor of Accountancy,Singapore University of Social Sciences,3000,2750,3000,83.3,3000,2900,2880,2019,91.1
 1662,School of Business,Bachelor of Science in Finance,Singapore University of Social Sciences,3450,3085,3400,88.6,3750,3722,3708,2019,88.6
@@ -1706,7 +1706,7 @@
 1704,College of Sciences,Chemistry  Biological Chemistry,Nanyang Technological University,3400,3000,3200,66.2,3600,3338,3246,2019,80.9
 1705,College of Sciences,Environmental Earth Systems Sciences,Nanyang Technological University,3500,3200,3500,79.2,3500,3416,3401,2019,87.5
 1706,College of Sciences,Mathematical Sciences,Nanyang Technological University,3599,3215,3549,79.6,4070,3848,3741,2019,91.2
-1707,College of Sciences,Mathematics  Economics,Nanyang Technological University,3700,3400,3570,84.8,4167,3996,3838,2019,93.5
+1707,College of Sciences,Mathematics and Economics,Nanyang Technological University,3700,3400,3570,84.8,4167,3996,3838,2019,93.5
 1708,College of Sciences,Physics  Applied Physics,Nanyang Technological University,3500,3300,3500,78.6,4200,3849,3782,2019,90
 1709,Sports Science and Management,Sports Science and Management,Nanyang Technological University,3350,3000,3200,55.6,3660,3438,3289,2019,87
 1710,National Institute of Education (NIE),Arts (with Education),Nanyang Technological University,3800,3600,3800,100,3806,3710,3629,2019,100
@@ -1787,18 +1787,18 @@
 1785,University of Glasgow,Bachelor of Engineering with Honours in Mechatronics,Singapore Institute of Technology,3600,3300,3600,83.1,4000,3793,3764,2019,93.2
 1786,University of Glasgow,Bachelor of Science with Honours in Computing Science,Singapore Institute of Technology,4200,3700,4000,89.2,5100,4366,4294,2019,92.3
 1787,University of Liverpool,Bachelor of Arts with Honours in Criminology and Security,Singapore Institute of Technology,3695,3400,3526,70.4,4050,3823,3647,2019,80.2
-1788,School of Accountancy (4year programme),Accountancy,Singapore Management University,3050,3000,3000,93.7,4000,3802,3753,2019,96.4
-1789,School of Accountancy (4year programme),Accountancy (Cum Laude and above),Singapore Management University,3600,3000,3500,97.9,5000,4431,4364,2019,97.9
-1790,School of Business (4year programme),Business Management,Singapore Management University,3750,3300,3600,84.8,4600,4181,4056,2019,91
-1791,School of Business (4year programme),Business Management (Cum Laude and above),Singapore Management University,4167,3600,4000,90.4,5120,4614,4504,2019,93
-1792,School of Economics (4year programme),Economics,Singapore Management University,3900,3500,3800,81.3,4500,4159,4042,2019,87.1
-1793,School of Economics (4year programme),Economics (Cum Laude and above),Singapore Management University,4038,3600,4000,89.9,4600,4520,4401,2019,94.2
-1794,School of Information Systems (4year programme),Information Systems,Singapore Management University,4300,4000,4166,90.2,5000,4549,4413,2019,95.1
-1795,School of Information Systems (4year programme),Information Systems (Cum Laude and above),Singapore Management University,5000,4300,5000,96,5550,5212,5029,2019,98
-1796,School of Social Sciences (4year programme),Social Sciences,Singapore Management University,3500,3065,3400,82.8,4000,3629,3523,2019,92.2
-1797,School of Social Sciences (4year programme),Social Sciences (Cum Laude and above),Singapore Management University,3500,3100,3500,90.2,4070,3742,3599,2019,92.7
-1798,School of Law (4year programme),Law,Singapore Management University,4900,4200,4600,98.2,5800,5064,4942,2019,99.1
-1799,School of Law (4year programme),Law (Cum Laude and above),Singapore Management University,5550,4500,5000,97.1,6000,5324,5136,2019,98.6
+1788,School of Accountancy,Accountancy,Singapore Management University,3050,3000,3000,93.7,4000,3802,3753,2019,96.4
+1789,School of Accountancy,Accountancy Cum Laude and above,Singapore Management University,3600,3000,3500,97.9,5000,4431,4364,2019,97.9
+1790,School of Business,Business Management,Singapore Management University,3750,3300,3600,84.8,4600,4181,4056,2019,91
+1791,School of Business,Business Management Cum Laude and above,Singapore Management University,4167,3600,4000,90.4,5120,4614,4504,2019,93
+1792,School of Economics,Economics,Singapore Management University,3900,3500,3800,81.3,4500,4159,4042,2019,87.1
+1793,School of Economics,Economics Cum Laude and above,Singapore Management University,4038,3600,4000,89.9,4600,4520,4401,2019,94.2
+1794,School of Information Systems,Information Systems,Singapore Management University,4300,4000,4166,90.2,5000,4549,4413,2019,95.1
+1795,School of Information Systems,Information Systems Cum Laude and above,Singapore Management University,5000,4300,5000,96,5550,5212,5029,2019,98
+1796,School of Social Sciences,Social Sciences,Singapore Management University,3500,3065,3400,82.8,4000,3629,3523,2019,92.2
+1797,School of Social Sciences,Social Sciences Cum Laude and above,Singapore Management University,3500,3100,3500,90.2,4070,3742,3599,2019,92.7
+1798,School of Law,Law,Singapore Management University,4900,4200,4600,98.2,5800,5064,4942,2019,99.1
+1799,School of Law,Law Cum Laude and above,Singapore Management University,5550,4500,5000,97.1,6000,5324,5136,2019,98.6
 1800,S R Nathan School of Human Development,Bachelor of Human Resource Management,Singapore University of Social Sciences,3000,2800,3000,74.2,3300,2975,2942,2019,87.1
 1801,School of Business,Bachelor of Accountancy,Singapore University of Social Sciences,3000,2750,3000,83.3,3000,2900,2880,2019,91.1
 1802,School of Business,Bachelor of Science in Finance,Singapore University of Social Sciences,3450,3085,3400,88.6,3750,3722,3708,2019,88.6
@@ -1807,15 +1807,15 @@
 1805,na,Bachelor of Engineering (Information Systems Technology and Design),Singapore University of Technology and Design,4400,3800,4400,85.7,5000,4636,4599,2019,88.8
 1806,na,Bachelor of Engineering (Engineering Systems and Design),Singapore University of Technology and Design,4000,3500,3800,87.3,4400,4082,3944,2019,89.9
 1807,na,Bachelor of Science (Architecture and Sustainable Design),Singapore University of Technology and Design,3900,3600,3897,91.8,4100,3985,3923,2019,100
-1808,School of Accountancy (4year programme),Accountancy,Singapore Management University,3100,3000,3050,86%,4000,3694,3636,2020,94.70%
-1809,School of Accountancy (4year programme),Accountancy (Cum Laude and above),Singapore Management University,3744,3000,3600,86%,4583,4057,3979,2020,96.30%
-1810,School of Business (4year programme),Business Management,Singapore Management University,3850,3440,3800,68%,4600,4293,4183,2020,95.80%
-1811,School of Business (4year programme),Business Management (Cum Laude and above),Singapore Management University,4000,3600,4000,79%,5000,4688,4596,2020,97.50%
-1812,School of Economics (4year programme),Economics,Singapore Management University,3800,3400,3750,71%,4500,4290,4181,2020,91.50%
-1813,School of Economics (4year programme),Economics (Cum Laude and above),Singapore Management University,4000,3660,4000,83%,5275,4749,4670,2020,94.70%
-1814,School of Information Systems (4year programme),Information Systems,Singapore Management University,4542,4000,4500,84%,5400,4683,4548,2020,93.10%
-1815,School of Information Systems (4year programme),Information Systems (Cum Laude and above),Singapore Management University,5000,4500,5000,93%,5416,5064,4903,2020,93.30%
-1816,School of Social Sciences (4year programme),Social Sciences,Singapore Management University,3500,3200,3360,53%,4000,3626,3540,2020,89.90%
-1817,School of Social Sciences (4year programme),Social Sciences (Cum Laude and above),Singapore Management University,3510,3230,3510,66%,4200,3784,3711,2020,90.60%
-1818,School of Law (4year programme),Law,Singapore Management University,4588,4000,4500,91%,5600,4804,4729,2020,95.50%
-1819,School of Law (4year programme),Law (Cum Laude and above),Singapore Management University,5000,4500,5000,96%,5735,5141,5053,2020,97.00%
+1808,School of Accountancy,Accountancy,Singapore Management University,3100,3000,3050,86%,4000,3694,3636,2020,94.70%
+1809,School of Accountancy,Accountancy Cum Laude and above,Singapore Management University,3744,3000,3600,86%,4583,4057,3979,2020,96.30%
+1810,School of Business,Business Management,Singapore Management University,3850,3440,3800,68%,4600,4293,4183,2020,95.80%
+1811,School of Business,Business Management Cum Laude and above,Singapore Management University,4000,3600,4000,79%,5000,4688,4596,2020,97.50%
+1812,School of Economics,Economics,Singapore Management University,3800,3400,3750,71%,4500,4290,4181,2020,91.50%
+1813,School of Economics,Economics Cum Laude and above,Singapore Management University,4000,3660,4000,83%,5275,4749,4670,2020,94.70%
+1814,School of Information Systems,Information Systems,Singapore Management University,4542,4000,4500,84%,5400,4683,4548,2020,93.10%
+1815,School of Information Systems,Information Systems Cum Laude and above,Singapore Management University,5000,4500,5000,93%,5416,5064,4903,2020,93.30%
+1816,School of Social Sciences,Social Sciences,Singapore Management University,3500,3200,3360,53%,4000,3626,3540,2020,89.90%
+1817,School of Social Sciences,Social Sciences Cum Laude and above,Singapore Management University,3510,3230,3510,66%,4200,3784,3711,2020,90.60%
+1818,School of Law,Law,Singapore Management University,4588,4000,4500,91%,5600,4804,4729,2020,95.50%
+1819,School of Law,Law Cum Laude and above,Singapore Management University,5000,4500,5000,96%,5735,5141,5053,2020,97.00%
