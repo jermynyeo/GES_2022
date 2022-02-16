@@ -42,6 +42,37 @@ if search_text:
         query_uni_df_frame = pd.pivot_table(query_uni_df,index='year',columns=['key','university'],values='basic_monthly_mean')
         query_uni_df_frame = query_uni_df_frame.stack(level=[0,1],dropna=False).to_frame('basic_monthly_mean').reset_index()
         query_uni_df_frame = query_uni_df_frame[query_uni_df_frame.key.eq(0) | query_uni_df_frame['basic_monthly_mean'].notna()]
+
+        fig0 = px.bar(query_deg_df, x="year",
+                    y="basic_monthly_mean",
+                    color='degree',
+                    barmode='group',
+                    width=2000,
+                    height=800,
+                    title="Year-on-Year Change in Mean Basic Monthly According to Singapore Universities (2013 to 2020)",
+                    labels={"degree": "Degree"},
+                    range_y = [0, query_deg_df.basic_monthly_mean.max() + 1000]
+                    )
+
+        fig0.update_layout(
+            legend=dict(
+                x=0,
+                y=1,
+                traceorder="reversed",
+                title_font_family="Times New Roman",
+                font=dict(
+                    family="Courier",
+                    size=12,
+                    color="black"
+                ),
+                bgcolor="rgba(0,0,0,0)",
+                bordercolor="Black",
+                borderwidth=2
+            )
+        )
+
+        st.plotly_chart(fig0, use_container_width=True)
+        
         query_uni_df_frame = query_uni_df_frame.fillna(0)
 
         fig1 = px.bar(query_deg_df_frame, x="degree",
@@ -73,11 +104,6 @@ if search_text:
             )
         )
 
-
-        fig1.update_traces(
-            cliponaxis=True
-        )
-                
         st.plotly_chart(fig1, use_container_width=True)
 
         fig2 = px.bar(query_uni_df_frame, x="university", 
