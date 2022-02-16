@@ -84,7 +84,8 @@ if search_text:
                     title="Year-on-Year Change in Mean Basic Monthly According to Singapore Universities (2013 to 2020)",
                     labels={"degree": "Degree"},
                     animation_frame="year",
-                    animation_group="degree"
+                    animation_group="degree",
+                    range_y=[0,  query_uni_df.basic_monthly_mean.max() + 1000]
                     )
 
         fig1.update_layout(
@@ -116,7 +117,7 @@ if search_text:
                     labels={"university": "University"},
                     animation_frame="year",
                     animation_group="university",
-                    range_y=[0,  query_uni_df.basic_monthly_mean.max() + 1500]
+                    range_y=[0,  query_uni_df.basic_monthly_mean.max() + 1000]
                     )
 
         fig2.update_layout(
