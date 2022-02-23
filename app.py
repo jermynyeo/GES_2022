@@ -33,6 +33,11 @@ if search_text:
         "No Records."
     else:
         # groupby degree and year
+        query_df = query_df.drop(query_df[query_df['basic_monthly_mean'] == 'na'].index) 
+        # query_df['employment_rate_overall_pct'] = (pd.to_numeric(query_df['employment_rate_overall'].str[:-1])
+        #                             .div(100)
+        #                     .mask(query_df['employment_rate_overall'] == '%', 0))
+
         query_deg_df = query_df.groupby(["degree", "year"]).mean().reset_index()
         # df for animated chart
         query_deg_df['key'] = query_deg_df.groupby(['year', 'degree']).cumcount()
@@ -43,6 +48,7 @@ if search_text:
         query_deg_df_frame = query_deg_df_frame[
             query_deg_df_frame.key.eq(0) | query_deg_df_frame['basic_monthly_mean'].notna()]
         query_deg_df_frame = query_deg_df_frame.fillna(0)
+
 
         # groupby uni and year
         query_uni_df = query_df.groupby(["university", "year"]).mean().reset_index()
@@ -55,18 +61,13 @@ if search_text:
         query_uni_df_frame = query_uni_df_frame[
             query_uni_df_frame.key.eq(0) | query_uni_df_frame['basic_monthly_mean'].notna()]
 
-        fig0 = px.bar(query_deg_df, x="year",
-                      y="basic_monthly_mean",
-                      color='degree',
-                      barmode='group',
-                      width=2000,
-                      height=800,
-                      title="Year-on-Year Change in Mean Basic Monthly According to Singapore Universities (2013 to 2020)",
-                      labels={"degree": "Degree"},
-                      range_y=[0, query_deg_df.basic_monthly_mean.max() + 1000]
-                      )
+        fig = px.treemap(query_df, 
+                 path=['university', 'degree'], 
+                 values='basic_monthly_mean',
+                 color='basic_monthly_mean'
+                )
 
-        fig0.update_layout(
+        fig.update_layout(
             legend=dict(
                 x=0,
                 y=1,
@@ -83,7 +84,33 @@ if search_text:
             )
         )
 
-        st.plotly_chart(fig0, use_container_width=True)
+        st.plotly_chart(fig, use_container_width=True)
+
+        # fig0 = px.treemap(query_df, 
+        #          path=['university', 'degree'], 
+        #          values='employment_rate_overall_pct',
+        #          color='employment_rate_overall_pct'
+        #     )
+                
+        # fig0.update_layout(
+        #     legend=dict(
+        #         x=0,
+        #         y=1,
+        #         traceorder="reversed",
+        #         title_font_family="Times New Roman",
+        #         font=dict(
+        #             family="Courier",
+        #             size=12,
+        #             color="black"
+        #         ),
+        #         bgcolor="rgba(0,0,0,0)",
+        #         bordercolor="Black",
+        #         borderwidth=2
+        #     )
+        # )
+
+        # st.plotly_chart(fig0, use_container_width=True)
+
 
         query_uni_df_frame = query_uni_df_frame.fillna(0)
 
