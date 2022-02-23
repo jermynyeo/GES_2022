@@ -24,7 +24,7 @@ try_school_uni_mean_yoy_basic_income_df.school = try_school_uni_mean_yoy_basic_i
 
 st.title("GES 2013 to 2020")
 
-search_text = st.text_input('Term to search:', '')
+search_text = st.text_input('Term to search (by degree):', '')
 
 if search_text:
     query_df = try_school_uni_mean_yoy_basic_income_df[
