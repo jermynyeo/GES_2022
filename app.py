@@ -24,12 +24,13 @@ try_school_uni_mean_yoy_basic_income_df.school = try_school_uni_mean_yoy_basic_i
 
 st.title("GES 2013 to 2020")
 
-search_uni_text = st.text_input('Term to search (by university):', '')
+# search_uni_text = st.text_input('Term to search (by university):', '')
+search_uni = st.radio("Select a university",["National University of Singapore", "Nanyang Technological University", "Singapore Management University", "Singapore Institute of Technology", "Singapore University of Technology and Design", "Singapore University of Social Sciences"])
 search_degree_text = st.text_input('Term to search (by degree):', '')
 
-if search_uni_text and search_degree_text:
+if search_uni and search_degree_text:
     query_df = try_school_uni_mean_yoy_basic_income_df[
-        try_school_uni_mean_yoy_basic_income_df.university.str.contains(f'{search_uni_text.lower()}') | try_school_uni_mean_yoy_basic_income_df.school.str.contains(f'{search_degree_text.lower()}')]
+        try_school_uni_mean_yoy_basic_income_df.university.str.contains(f'{search_uni.lower()}') | try_school_uni_mean_yoy_basic_income_df.school.str.contains(f'{search_degree_text.lower()}')]
     if (query_df.shape[0] == 0):
         "No Records."
     else:
